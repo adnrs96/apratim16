@@ -7,7 +7,7 @@
 ## Register
 ## Gallery
 ## Animations , front animation
-## Sponsers
+## ~~Sponsors~~
 ## Developers
 ## Contact Update
 ------------------------------------------------------------------------------------
