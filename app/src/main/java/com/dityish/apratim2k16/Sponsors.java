@@ -54,7 +54,7 @@ public class Sponsors extends android.support.v4.app.Fragment {
             return view;
         }
 
-        web.loadUrl("https://file-md-ms.herokuapp.com/apratim_sponsers");
+        web.loadUrl("https://apratim.herokuapp.com/");
 
 
         return view;

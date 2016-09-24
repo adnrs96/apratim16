@@ -29,7 +29,7 @@ public class Developers extends android.support.v4.app.Fragment {
         View view=inflater.inflate(R.layout.fragment_developers, container, false);
 
         ListView developerList=(ListView) view.findViewById(R.id.developerList);
-        Bitmap[] drw=new Bitmap[9];
+        Bitmap[] drw=new Bitmap[4];
         for(int i=0;i<DEVELOPER_NAMES.length;i++)
         {
             Bitmap pics= BitmapFactory.decodeResource(getResources(), DEVELOPER_PICS[i]);
