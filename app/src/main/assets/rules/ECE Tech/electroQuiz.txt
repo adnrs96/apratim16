@@ -1,0 +1,21 @@
+41
+ElectroQuiz
+CCET
+2015-10-29T11:23
+2015-10-29T12:23
+FALSE
+The quiz is designed to test the basic concepts and technical quotient of the participants. It consists of three rounds-
+Round 1(Pen and paper test): This round will be of 25 questions.
+Round 2(Visual aided quiz): The round is more of a fun round and will test the general awareness of the participants about the current developments in the field of electronics.
+Round 3(Software simulation): Simulate the given circuit in the most optimum manner that is minimum components and highest efficiency.
+Get ready and exercise the neurons. Compete with the best to prove yourselves.
+
+Rules:
+A team consists of maximum 2 students.
+Students of different educational institutions can make a team.
+Use of electronic gadgets or internet is not allowed in any form.
+Decision of the judges is final.
+Winners will be decided on the basis of the best circuit.
+
+Certificates and Prizes
+Certificates of participation will be given to all the participating teams.Certificates of Excellence and Cash Prizes will be awarded to the winning teams.

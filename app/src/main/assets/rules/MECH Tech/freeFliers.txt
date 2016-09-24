@@ -1,0 +1,29 @@
+43
+Free Fliers
+CCET
+2015-10-29T11:23
+2015-10-29T12:23
+FALSE
+Design a free flying (no external power) object like a glider. The participant will launch it into the air and the main task is to keep it airborne for maximum horizontal distance and aiming for maximum time of flight.
+
+Design Specifications:
+The dimensions of the glider should not be more than 60cm x 60cm x 15cm.No external power source can be used like electric motor, RC controllers etc. The free flier cannot be made out of sharp metals or should not have sharp edges etc. However participants may use some techniques to make their free flier aerodynamic. The participant must remain stationary on the ground while and after the launching of the free flier. No component or body part of the free flier should get detached from main frame during the flight. If detached then the team will be disqualified. No electronic device can be used.
+
+Safety Precautions,Hints,and Tips:
+A glider is a very good example of a free flying object. A glider is nothing more nor less than a refined paper dart. If it is launched to a given height in still air conditions it will move forward horizontally relatively rapidly and descend vertically relatively slowly in rather the same way as a cyclist can freewheel down a hill. The action of the air in keeping the glider airborne or even gaining height is called (rather unimaginatively) 'lift'
+
+The competition will be carried out in two rounds
+Round 1: Eliminations:
+The task is to cover maximum horizontal distance. The place where rep tip will fall will be considered for scoring. Two trials will be given to the participants and the best of the two horizontal distances(in meters) will be considered as score. Participants are allowed to use different free fliers for this round. The teams who successfully crosses a specified distance will be eligible for finals.
+
+Round 2: Finals:
+The task is to make the free fliers land on the defined zones to earn maximum points. Two trails will be given and best of two will be considered as round 2 score. Participants are allowed to use different rockets for this round. Team with highest scoring will be declared as the WINNER.
+
+Scoring Total= Round 1 Score + Round 2 Score
+Team size a maximum no of 2 members in a team. Students from different educational institutes are allowed to make a team.
+
+Any of following if satisfied may lead to disqualification of a team:
+Free flier found dangerous by organizers and judges. Free flier launched before permitted by the judges. Design rule not abided by the participants. Rocket launches before permitted by the judges. The organizers reserve all rights to change any of the above rules as they deem fit. In case of a discrepancy decision of the judges shall be treated as final and binding on all.
+
+Certificates and Prizes
+Certificates of participation will be given to all the participating teams.Certificates of Excellence and prize money will be awarded to the winning teams.

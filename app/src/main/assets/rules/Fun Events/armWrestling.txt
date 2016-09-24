@@ -1,0 +1,7 @@
+10
+Arm Wrestling
+CCET
+2015-10-29T11:23
+2015-10-29T12:23
+FALSE
+Rule goes HERE

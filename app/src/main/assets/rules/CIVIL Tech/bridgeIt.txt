@@ -1,0 +1,33 @@
+46
+Bridge It
+CCET
+2015-10-29T11:23
+2015-10-29T12:23
+FALSE
+Bridges are probably some of the oldest structures built by men. From a simple log across a river to the bridges of today we have made much progress. With improving designs bridges carry immense loads, often in very harsh conditions.
+
+We bring you the annual bridge making competition of APRATIM that will test your ability to design and construct the most efficient bridge within the given specifications. Your model bridges are intended to be simplified versions of their real world counterparts. However, this time around we're taking bridge designing to a whole new level.
+
+Team Specifications:
+A maximum of 2 members are allowed in a team.
+Eligibility: All students with a valid student id card from their respective colleges are allowed to participate.
+
+Bridge Specifications:
+Construct a deck arch bridge (road/ pavement above the truss) of length 400-500 mm using straw.
+The bridge must have only two footings and the distance between their centrers must be 400- 500mm.
+Footing width can be up to a maximum of 100mm
+The roadway should be continuous and should allow a 10cm x 10cm vehicle to pass the entire length of the bridge.
+The width of the bridge at any point shall not be more than 125 mm.
+Total height of the bridge from footing must not be less than 100mm and must not exceed 200mm. No truss members must be placed 50mm above the roadway. Loading will be done at the center of the bridge.
+
+Loading Procedure and Grading Criterion:
+Loading will be done using a hook at the center of the bridge
+All construction and material requirements will be checked prior to testing. Bridges failing to meet these requirements will be disqualified.
+Deflection Test: The Bridge will be tested for a deflection of 15mm and will be rated according to the load required.
+The load considered E is that value of weight supported by the bridge until failure or until a deflection of 15mm at the center.
+The bridge with the highest structural efficiency, E, will be declared the winner. E= Load supported in kg/ Mass of the bridge in kg.
+All the dimensions mentioned are acceptable within an error range of + 5 to - 5%. Any failure in adhering to the specifications will lead to immediate disqualification.
+All decisions of the judges shall be final.
+
+Certificates and Prizes
+Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.

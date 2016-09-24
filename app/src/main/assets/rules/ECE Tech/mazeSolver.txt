@@ -1,0 +1,35 @@
+39
+Maze Solver
+CCET
+2015-10-29T11:23
+2015-10-29T12:23
+FALSE
+Robot Specifications:
+Robots have to operate autonomously and should not be remote-controlled(Bluetooth or any hand held device).
+All systems (like sensors, power supply, data-processing and control-systems) have to completely reside on the robot.
+The teams are allowed to use ready- made micro-controller boards/ready-made sensor kits. However they are not allowed to use Lego kits or any similar assemblies.
+And violation of any of the above rules shall lead to disqualification.
+Machine must be completely self-contained and should receive no outside assistance.
+Machine should have an on-board power supply. No external power supply is allowed.
+
+Rules and Regulations:
+The maze will be 3-D
+Dimensions of the bot: 30cm*30cm*30cm(max)
+Some places in track are of 22cm wide.
+Teams may have a maximum of 4 members.
+The robot has to be developed and designed by the team itself. The usage of commercially complete robotic-systems which are sold ready for the purpose of the competition is not allowed.
+The time of any run is measured from the time the robot crosses the starting line until the time it crosses the finish line.
+A robot is deemed to have crossed the line when the forward most wheel, track, or leg of the robot contacts or crosses over the Line.
+
+Timekeeping:
+Time shall be measured by an electronic gate system or by a judge with a stopwatch, based on the availability of equipment. In either case the recorded time shall be final.
+Any types of claim will be entertained by the organizing team itself and their decision will be final.
+The organizers reserve the right to change any or all of the rules as they deem fit.
+Violation of any of the rules will lead to disqualification. Judges' decision shall be treated as final and binding on all.
+
+Track Specification:
+Height of the track is 6 inch
+Width of track(path) varies from 9-12 inches.
+
+Certificates and Prizes
+Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
