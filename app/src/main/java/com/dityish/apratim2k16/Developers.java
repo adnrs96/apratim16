@@ -34,6 +34,7 @@ public class Developers extends android.support.v4.app.Fragment {
         {
             Bitmap pics= BitmapFactory.decodeResource(getResources(), DEVELOPER_PICS[i]);
             pics=getRoundedShape(pics);
+            pics.recycle();
             drw[i]=pics;
         }
         ListAdapter custom = new DeveloperAdapter(getActivity(), DEVELOPER_NAMES, drw,DEVELOPER_CONTRI);
