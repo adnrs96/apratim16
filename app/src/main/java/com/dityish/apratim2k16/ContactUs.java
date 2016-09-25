@@ -69,12 +69,12 @@ public class ContactUs extends Fragment {
             R.drawable.profile,
             R.drawable.profile,
             R.drawable.profile,
+            R.drawable.shubham_goyal,
             R.drawable.profile,
-            R.drawable.profile,
-            R.drawable.profile,
-            R.drawable.profile,
-            R.drawable.profile,
-            R.drawable.profile};
+            R.drawable.harinder,
+            R.drawable.ashish,
+            R.drawable.ashim,
+            R.drawable.mridula};
 
 
     @Override
