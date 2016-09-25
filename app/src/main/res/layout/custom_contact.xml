@@ -9,6 +9,19 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:padding="2dp"
+            android:background="@drawable/round_button"
+            android:id="@+id/teamImage"
+            android:src="@drawable/developers"
+            android:layout_marginTop="28dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="13dp"
+            android:layout_marginStart="13dp" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -16,22 +29,29 @@
         android:textColor="@color/white"
         android:textStyle="bold"
         android:alpha="0.87"
-        android:text="Sports Secretary  "
+        android:text="Developer"
         android:id="@+id/head"
-        android:layout_marginLeft="15dp"
-        android:layout_marginTop="10dp" />
+        android:layout_alignTop="@+id/teamImage"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="15dp"
-        android:layout_below="@+id/head"
         android:alpha="0.64"
-        android:text="Shambhavi Mehrotra \n+91-8290900449\nshambhavi@bits-bosm.org"
+        android:text="Rishabh Mehrotra \n+91-8290900449\nrisv@abc.com"
         android:id="@+id/name"
-        android:layout_marginTop="5dp"
         android:textColor="@color/white"
-        android:textSize="20sp"/>
+        android:textSize="20sp"
+
+
+        android:layout_toRightOf="@+id/teamImage"
+        android:layout_marginLeft="57dp"
+        android:layout_marginStart="57dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/head"
+        android:layout_alignBottom="@+id/teamImage" />
 
     </RelativeLayout>
 </LinearLayout>

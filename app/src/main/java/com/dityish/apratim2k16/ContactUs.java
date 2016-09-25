@@ -3,6 +3,11 @@ package com.dityish.apratim2k16;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.Canvas;
+import android.graphics.Path;
+import android.graphics.Rect;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -18,34 +23,37 @@ import android.widget.Toast;
 public class ContactUs extends Fragment {
 
 
-    String[] CONTACT_HEAD={"lorem ipsum",
-            "lorem ipsum",
+    String[] CONTACT_HEAD={"Convener",
+            "Co-Convener",
+            "Secretary",
+            "Joint Secretary",
+            "Joint Secretary" ,
+            "Joint Secretary" ,
+            "Joint Secretary",
+            "Treasurer",
+            "Marketing Head",
+            "Registration Head"};
+    String[] CONTACT_NAME={"Aakash",
+            "Vasu",
+            "Inderdeep",
+            "Deepanshu",
+            "Shubham Goyal",
+            "Sahil Puri",
+            "Harinder",
+            "Ashish",
+            "Ashim",
+            "Mridula"};
 
-            "lorem ipsum",
-
-            "lorem ipsum",
-
-            "lorem ipsump" ,
-
-
-            "lorem ipsum" ,
-
-            "lorem ipsum"};
-    String[] CONTACT_NAME={"lorem ipsum",
-            "lorem ipsum",
-            "lorem ipsum",
-            "lorem ipsum",
-            "lorem ipsum",
-            "lorem ipsum",
-            "lorem ipsum"};
-
-    String[] CONTACT_NUMBER= {"+91-420",
-            "+91-420",
-            "+91-420",
-            "+91-420",
-            "+91-420",
-            "+91-420",
-            "+91-420"};
+    String[] CONTACT_NUMBER= {"+919888370004",
+            "+919646861515",
+            "+918146618475",
+            "+919530587815",
+            "+919501177779",
+            "+919780935213",
+            "+919872964202",
+            "+917814331944",
+            "+918558056929",
+            "+918146369596"};
 
     String[] CONTACT_EMAIL={"lorem_ipsum@lorem_ipsum.com",
             "lorem_ipsum@lorem_ipsum.com",
@@ -53,8 +61,20 @@ public class ContactUs extends Fragment {
             "lorem_ipsum@lorem_ipsum.com",
             "lorem_ipsum@lorem_ipsum.com",
             "lorem_ipsum@lorem_ipsum.com",
+            "lorem_ipsum@lorem_ipsum.com",
+            "lorem_ipsum@lorem_ipsum.com",
+            "lorem_ipsum@lorem_ipsum.com",
             "lorem_ipsum@lorem_ipsum.com"};
-
+    int [] Team_PICS={R.drawable.paras,
+            R.drawable.profile,
+            R.drawable.profile,
+            R.drawable.profile,
+            R.drawable.profile,
+            R.drawable.profile,
+            R.drawable.profile,
+            R.drawable.profile,
+            R.drawable.profile,
+            R.drawable.profile};
 
 
     @Override
@@ -64,7 +84,14 @@ public class ContactUs extends Fragment {
         View view=inflater.inflate(R.layout.activity_contact_us, container, false);
 
         ListView contactList=(ListView) view.findViewById(R.id.contactList);
-        ListAdapter custom= new ContactAdapter(getActivity() ,CONTACT_HEAD,CONTACT_NAME,CONTACT_NUMBER,CONTACT_EMAIL);
+        Bitmap[] pixy=new Bitmap[10];
+        for(int i=0;i<Team_PICS.length;i++)
+        {
+            Bitmap pics= BitmapFactory.decodeResource(getResources(), Team_PICS[i]);
+            pics=getRoundedShape(pics);
+            pixy[i]=pics;
+        }
+        ListAdapter custom= new ContactAdapter(getActivity() ,CONTACT_HEAD,CONTACT_NAME,CONTACT_NUMBER,CONTACT_EMAIL,pixy);
         contactList.setAdapter(custom);
 
         Toast.makeText(getActivity(),"Click on a person to call or send an email to him", Toast.LENGTH_LONG).show();
@@ -118,5 +145,27 @@ public class ContactUs extends Fragment {
         anim.con_anime().start();
 
         return view;
+    }
+    public Bitmap getRoundedShape(Bitmap scaleBitmapImage) {
+        int targetWidth = scaleBitmapImage.getWidth();
+        int targetHeight = scaleBitmapImage.getHeight();
+        Bitmap targetBitmap = Bitmap.createBitmap(targetWidth,
+                targetHeight, Bitmap.Config.ARGB_8888);
+
+        Canvas canvas = new Canvas(targetBitmap);
+        Path path = new Path();
+        path.addCircle(((float) targetWidth - 1) / 2,
+                ((float) targetHeight - 1) / 2,
+                (Math.min(((float) targetWidth),
+                        ((float) targetHeight)) / 2),
+                Path.Direction.CCW);
+
+        canvas.clipPath(path);
+        Bitmap sourceBitmap = scaleBitmapImage;
+        canvas.drawBitmap(sourceBitmap,
+                new Rect(0, 0, sourceBitmap.getWidth(),
+                        sourceBitmap.getHeight()),
+                new Rect(0, 0, targetWidth, targetHeight), null);
+        return targetBitmap;
     }
 }

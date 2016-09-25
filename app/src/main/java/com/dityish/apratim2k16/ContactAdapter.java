@@ -1,12 +1,15 @@
 package com.dityish.apratim2k16;
 
 import android.content.Context;
+import android.graphics.Bitmap;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 public class ContactAdapter extends ArrayAdapter<String> implements SHARED_CONSTANTS {
@@ -16,13 +19,15 @@ public class ContactAdapter extends ArrayAdapter<String> implements SHARED_CONST
     String[] name;
     String[] number;
     String[] email;
-    public ContactAdapter(Context context, String[] item, String[] name, String[] number, String[] email)
+    Bitmap[] pics;
+    public ContactAdapter(Context context, String[] item, String[] name, String[] number, String[] email,Bitmap[] pics)
     {
         super(context,R.layout.custom_contact, item);
         this.context=context;
         this.name=name;
         this.number=number;
         this.email=email;
+        this.pics=pics;
     }
 
     @Override
@@ -37,6 +42,7 @@ public class ContactAdapter extends ArrayAdapter<String> implements SHARED_CONST
                     .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             convertView=mInflater.inflate(R.layout.custom_contact,parent,false);
             holder = new Holder();
+            holder.teamImage=(ImageView)convertView.findViewById(R.id.teamImage);
             holder.head=(TextView) convertView.findViewById(R.id.head);
             holder.details=(TextView) convertView.findViewById(R.id.name);
             convertView.setTag(holder);
@@ -46,8 +52,16 @@ public class ContactAdapter extends ArrayAdapter<String> implements SHARED_CONST
             holder=(Holder) convertView.getTag();
         }
 
-        holder.head.setText(str);
-        holder.details.setText(name[position]+"\n"+number[position]+"\n"+email[position]);
+        try {
+            holder.head.setText(str);
+            holder.details.setText(name[position]+"\n"+number[position]);
+            holder.teamImage.setImageBitmap(pics[position]);
+        }
+        catch (NullPointerException e)
+        {
+            Log.d("Exception occured","Exception handler at getview in developer adapter");
+        }
+
 
         if(t<position) {
             convertView.startAnimation(anim);
@@ -60,6 +74,7 @@ public class ContactAdapter extends ArrayAdapter<String> implements SHARED_CONST
     public class Holder
     {
         public TextView head;
+        public ImageView teamImage;
         public TextView details;
     }
 }
