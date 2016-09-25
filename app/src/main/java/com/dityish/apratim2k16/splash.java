@@ -55,7 +55,7 @@ public class splash extends AppCompatActivity {
             }
 
         });
-        sync.setPriority(Thread.MAX_PRIORITY);
+       // sync.setPriority(Thread.MAX_PRIORITY);
         sync.start();
 
         final Intent i = new Intent(this, MainHome.class);
