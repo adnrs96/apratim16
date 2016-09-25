@@ -1,0 +1,23 @@
+60
+FIFA 16
+CCET
+2015-10-29T11:23
+2015-10-29T12:23
+FALSE
+Rules:
+1.Teams Allowed = Clubs/Internationals (Both players may select the same team).
+2. Half length=4 minutes
+3. Players bring their own controllers/gamepads.
+4. Competition Method : 1 vs. 1 to determine the winner.
+5. If scores are still tied at the end of extra time, penalties will decide
+6. Scores at the end of 90 minutes of normal time (including injury time) will determine the winner of each match.
+7. If scores are tied at the end of 90 minutes, extra time (classic) will be played
+Entry Fee:INR 100 per head
+8. Difficulty Level : World Class
+9. Injuries : on
+10. Offsides : on
+11.Bookings : on
+12. Stadium : Random
+13.Weather : Random
+14.Substitutions Allowed : 3
+15.If there is any disconnection during the game, the match will be restarted.

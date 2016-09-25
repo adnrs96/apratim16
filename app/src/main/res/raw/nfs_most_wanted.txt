@@ -1,0 +1,25 @@
+61
+NFS Most Wanted
+CCET
+2015-10-29T11:23
+2015-10-29T12:23
+FALSE
+Rules:
+1. Competition Method : 1 vs 1/ 4 players knockout(depending on no. of players)
+2. Game Type : Circuit
+3. No. of Laps : 2/3
+4. In case of equal finish time for both players the race is to be restarted.
+5. The use of Porsche GT and BMW M3 are NOT allowed.
+6. The players will be divided into groups of 4.
+7. The race course will be given on the spot. Courses: Diamond, Dunwich Bay,Heritage Heights, Bay Bridge, East Park (*Each Course may be modified bytheorganizers).
+8. Players coming 1st and 2nd will qualify for the next phase.
+9. In case of a tie with 1st player both of them qualify for the next round but a tie with the2nd player will result in a Re-race between the concerned two of them.
+10. The knockout circuit races continue until 4 semifinalists are obtained*.
+11. Race Mode Options:
+12. Track Direction : Forward
+13.N2O : Off for the prelims
+14. Collision Detection : off
+15.Performance Matching : off
+16.Car Damage : off
+17.If there is any disconnection during the game, the match will be restarted.
+Entry Fee:INR 100 per head

@@ -2,6 +2,7 @@ package com.dityish.apratim2k16;
 
 /**
  * Created by adnrs96 on 26/8/16.
+ * Modified by paraschadha on 25/9/16
  */
 
 import android.os.Bundle;
@@ -30,10 +31,10 @@ public class Gallery extends android.support.v4.app.Fragment {
         int width = displaymetrics.widthPixels;
         jerryAnimation anim = new jerryAnimation(view,height,width);
         anim.con_anime().start();
-        final String[] links = {"https://file-md-ms.herokuapp.com/apratim_gallery_pic1",
-                "https://file-md-ms.herokuapp.com/apratim_gallery_pic2",
-                "https://file-md-ms.herokuapp.com/apratim_gallery_pic3",
-                "https://file-md-ms.herokuapp.com/apratim_gallery_pic4"};
+        final String[] links = {"https://apratim.herokuapp.com/three.jpg",
+                "https://apratim.herokuapp.com/four.jpg",
+                "https://apratim.herokuapp.com/one.jpg",
+                "https://apratim.herokuapp.com/two.jpg"};
         ImageView pic1=(ImageView) view.findViewById(R.id.pic1);
         ImageView pic2=(ImageView) view.findViewById(R.id.pic2);
         ImageView pic3=(ImageView) view.findViewById(R.id.pic3);
