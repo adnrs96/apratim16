@@ -30,7 +30,14 @@ public class MainHome extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_home);
-
+        Thread sync=new Thread(new Runnable() {
+            @Override
+            public void run() {
+                SyncDB.refreshEvent(getApplicationContext());
+            }
+        });
+                sync.setPriority(Thread.MAX_PRIORITY);
+        sync.start();
          currentapiVersion = android.os.Build.VERSION.SDK_INT;
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
