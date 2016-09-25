@@ -4,18 +4,17 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
-import android.view.animation.Animation;
-import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
 public class splash extends AppCompatActivity {
 
-    String test="blah";
-    @Override
+        @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        /*final ImageView image=(ImageView) findViewById(R.id.image);
+
+        /*
+        final ImageView image=(ImageView) findViewById(R.id.image);
 
         Animation anim1 = AnimationUtils.loadAnimation(getApplicationContext(),R.anim.loading);
 
@@ -46,7 +45,9 @@ public class splash extends AppCompatActivity {
             }
         });
         image.startAnimation(anim1);
+
         */
+
         Thread sync=new Thread(new Runnable() {
             @Override
             public void run() {
@@ -56,6 +57,7 @@ public class splash extends AppCompatActivity {
         });
         sync.setPriority(Thread.MAX_PRIORITY);
         sync.start();
+
         final Intent i = new Intent(this, MainHome.class);
 
         //Setting up a delay
@@ -65,10 +67,16 @@ public class splash extends AppCompatActivity {
             public void run() {
                 startActivity(i);
             }
-        }, 10000);
+        }, 4000);
 
     }
 
-
+    @Override
+    protected void onStop() {
+        super.onStop();
+        ImageView img = (ImageView) findViewById(R.id.imageView);
+        img.setBackgroundResource(0);
+        System.gc();
+    }
 }
 
