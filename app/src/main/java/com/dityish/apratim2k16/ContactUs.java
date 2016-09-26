@@ -65,7 +65,7 @@ public class ContactUs extends Fragment {
             "lorem_ipsum@lorem_ipsum.com",
             "lorem_ipsum@lorem_ipsum.com",
             "lorem_ipsum@lorem_ipsum.com"};
-    int [] Team_PICS={R.drawable.paras,
+    int [] Team_PICS={R.drawable.profile,
             R.drawable.profile,
             R.drawable.profile,
             R.drawable.profile,
