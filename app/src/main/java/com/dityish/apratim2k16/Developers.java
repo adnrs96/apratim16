@@ -18,8 +18,8 @@ import android.widget.ListView;
 
 public class Developers extends android.support.v4.app.Fragment {
 
-    String[] DEVELOPER_NAMES={"Paras Chadha","Rishabh Malhotra","Akanksha Kumari","Aditya Bansal"};
-    int [] DEVELOPER_PICS={R.drawable.paras,R.drawable.profile,R.drawable.profile,R.drawable.profile};
+    String[] DEVELOPER_NAMES={"Paras Chadha","Rishabh Malhotra","Akanksha","Aditya Bansal"};
+    int [] DEVELOPER_PICS={R.drawable.paras,R.drawable.profile,R.drawable.akku,R.drawable.bansi};
     String[] DEVELOPER_CONTRI={"UI/UX & Back-end Developer","Graphic Designer","Back-end Developer","UX Developer"};
 
     @Override

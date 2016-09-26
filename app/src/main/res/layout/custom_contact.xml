@@ -31,9 +31,11 @@
         android:alpha="0.87"
         android:text="Developer"
         android:id="@+id/head"
-        android:layout_alignTop="@+id/teamImage"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/teamImage"
+        android:layout_alignLeft="@+id/name"
+        android:layout_alignStart="@+id/name" />
 
     <TextView
         android:layout_width="wrap_content"
