@@ -19,8 +19,8 @@ import android.widget.ListView;
 public class Developers extends android.support.v4.app.Fragment {
 
     String[] DEVELOPER_NAMES={"Paras Chadha","Rishabh Malhotra","Akanksha","Aditya Bansal"};
-    int [] DEVELOPER_PICS={R.drawable.paras,R.drawable.profile,R.drawable.akku,R.drawable.bansi};
-    String[] DEVELOPER_CONTRI={"UI/UX & Back-end Developer","Graphic Designer","Back-end Developer","UX Developer"};
+    int [] DEVELOPER_PICS={R.drawable.paras,R.drawable.rishabh,R.drawable.akku,R.drawable.bansi};
+    String[] DEVELOPER_CONTRI={"UI/UX & Back-end Developer","Front-end Developer","Back-end Developer","UX Developer"};
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,

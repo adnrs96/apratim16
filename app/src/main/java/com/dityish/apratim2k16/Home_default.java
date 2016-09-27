@@ -124,7 +124,7 @@ public class Home_default extends android.support.v4.app.Fragment implements SHA
                     noEvents.setVisibility(View.VISIBLE);
                     if(!isNetworkAvailable())
                     {
-                        Toast.makeText(getActivity().getBaseContext(),"No Network Connection to refresh schedule", Toast.LENGTH_SHORT).show();
+                        //Toast.makeText(getActivity().getBaseContext(),"No Network Connection to refresh schedule", Toast.LENGTH_SHORT).show();
                     }
 
                 } else {

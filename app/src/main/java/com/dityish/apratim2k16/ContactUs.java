@@ -57,7 +57,7 @@ public class ContactUs extends Fragment {
 
     String[] CONTACT_EMAIL={"lorem_ipsum@lorem_ipsum.com",
             "lorem_ipsum@lorem_ipsum.com",
-            "lorem_ipsum@lorem_ipsum.com",
+            "deepinder010196@gmail.com",
             "lorem_ipsum@lorem_ipsum.com",
             "lorem_ipsum@lorem_ipsum.com",
             "lorem_ipsum@lorem_ipsum.com",

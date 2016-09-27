@@ -123,7 +123,7 @@ public class Home extends android.support.v4.app.Fragment implements SHARED_CONS
                     noEvents.setVisibility(View.VISIBLE);
                     if(!isNetworkAvailable())
                     {
-                        Toast.makeText(getActivity().getBaseContext(),"No Network Connection to refresh schedule", Toast.LENGTH_SHORT).show();
+                        //Toast.makeText(getActivity().getBaseContext(),"No Network Connection to refresh schedule", Toast.LENGTH_SHORT).show();
                     }
 
                 } else {
