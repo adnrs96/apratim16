@@ -1,8 +1,8 @@
 6
 Folk Dance
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+MAIN STAGE
+2015-10-29T23:00
+2015-10-30T1:00
 FALSE
 Vulgarity of any kind will lead to immediate disqualification	
 Stunts related fire and water are not allowed	
@@ -19,3 +19,5 @@ Round 2  : FINALS
 Time Limit : 8-12 minutes
 Member as well as stage limit : 5 – 25 members
 Prelims track should be part of the finals track
+
+For registration visit: apratim.ccet.ac.in

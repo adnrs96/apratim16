@@ -1,8 +1,8 @@
 58
 Counter Strike 1.6
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+Block A entrance and CL-6
+2015-10-28T16:00
+2015-10-29T5:30
 FALSE
 Rules:
 1. Competition method: 5 vs. 5
@@ -28,4 +28,7 @@ de_nuke, de_inferno, de_train, cs_italy Maps can be changed depending on the ref
 20.Use any vulgar language or inappropriate behaviour.
 21.Have anyone play on your team that was not registered for the tourney.
 22.All rules of conduct alsoapply to chatting through the game console.
+
 Entry fees: INR 500 per team
+
+For registration visit: apratim.ccet.ac.in

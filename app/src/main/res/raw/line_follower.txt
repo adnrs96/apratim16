@@ -1,8 +1,8 @@
 38
 Line Follower
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+A.E. Lab (2nd floor)
+2015-10-28T16:30
+2015-10-28T19:30
 FALSE
 Robot Specifications:
 Robots have to operate autonomously and should not be remote-controlled(Bluetooth or any hand held device).
@@ -31,3 +31,5 @@ Violation of any of the rules will lead to disqualification. Judges' decision sh
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

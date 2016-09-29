@@ -1,8 +1,8 @@
 39
 Maze Solver
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+PATHHSHALA
+2015-10-29T15:30
+2015-10-29T17:30
 FALSE
 Robot Specifications:
 Robots have to operate autonomously and should not be remote-controlled(Bluetooth or any hand held device).
@@ -33,3 +33,5 @@ Width of track(path) varies from 9-12 inches.
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

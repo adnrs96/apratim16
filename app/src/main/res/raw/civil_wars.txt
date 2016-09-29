@@ -1,8 +1,8 @@
 47
 Civil Wars
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+CAD-LAB (Block B)
+2015-10-28T19:30
+2015-10-28T21:30
 FALSE
 Team Specifications:
 A maximum of 2 members are allowed in a team.
@@ -25,3 +25,5 @@ The decisions of the Judges will be the final and will not be subjected to any c
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

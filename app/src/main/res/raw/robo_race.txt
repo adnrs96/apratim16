@@ -1,8 +1,8 @@
 44
 Robo Race
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+OPEN AREA BELOW CAFETERIA
+2015-10-28T19:30
+2015-10-28T21:30
 FALSE
 Design a robo car either wired or wireless which has to complete the track with least possible time.
 
@@ -25,3 +25,5 @@ Judge’s decision will be considered final.
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence and prize money will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

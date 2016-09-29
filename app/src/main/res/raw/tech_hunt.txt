@@ -1,8 +1,8 @@
 35
 CSE Tech Hunt
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+LH-4
+2015-10-28T16:30
+2015-10-28T19:30
 FALSE
 This event is actually going to be fun. Come, show your enthusiasm and find clues to win exciting prizes.
 
@@ -15,3 +15,5 @@ Rest of the details will be disclosed at the spot.
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

@@ -1,8 +1,8 @@
 45
 Robo Wars
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+PARKING
+2015-10-29T15:30
+2015-10-29T17:30
 FALSE
 The obliteration, the thrill, the adventure. Here comes the much awaited, the decisive battleground for our Robotic Gladiators as they fight in this atrocity indulging themselves into ripping off every nut and bolt of the challenger and breaking it to pieces. This Apratim we present our very own Robo Wars in a fresh new avatar. Concrete the way for an era of "reinforcement".
 
@@ -20,3 +20,5 @@ A robot is declared victorious if its opponent is immobilized. A robot will be d
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence and prize money will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

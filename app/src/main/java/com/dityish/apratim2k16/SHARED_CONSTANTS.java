@@ -88,6 +88,24 @@ public interface SHARED_CONSTANTS {
             "tshirt_designing",
             "tug_of_bots",
             "vivify",
-            "webdroid" };
+            "webdroid",
+            "inaguration",
+            "cricket_tournament",
+            "face_the_bull",
+            "duet_finals",
+            "solo_finals",
+            "rangoli",
+            "five_a_side_football_2nd",
+            "basketball_2nd",
+            "beach_football_2nd",
+            "boltmania_2nd",
+            "cricket_tournament_2nd",
+            "mono_act",
+            "solo_instrumental_final",
+            "solo_singing_final",
+            "debate_english_finals",
+            "dance_on_dj",
+            "lan_gaming_finals",
+            "admad"};
 
 }

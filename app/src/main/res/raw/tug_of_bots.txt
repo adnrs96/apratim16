@@ -1,8 +1,8 @@
 40
 Tug of Bots
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+EDUSAT ROOM
+2015-10-28T20:30
+2015-10-28T22:30
 FALSE
 Details:
 The event will be held on a concrete road or a floor.
@@ -36,3 +36,5 @@ Any violation of rules may result in disqualification.
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

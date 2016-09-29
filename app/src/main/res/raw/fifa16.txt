@@ -1,8 +1,8 @@
 60
 FIFA 16
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+Block A entrance and CL-6
+2015-10-28T16:00
+2015-10-29T5:30
 FALSE
 Rules:
 1.Teams Allowed = Clubs/Internationals (Both players may select the same team).
@@ -21,3 +21,5 @@ Entry Fee:INR 100 per head
 13.Weather : Random
 14.Substitutions Allowed : 3
 15.If there is any disconnection during the game, the match will be restarted.
+
+For registration visit: apratim.ccet.ac.in

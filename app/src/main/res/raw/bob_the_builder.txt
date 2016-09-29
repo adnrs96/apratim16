@@ -1,8 +1,8 @@
 48
 Bob The Builder
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+CAD LAB (BLOCK B)
+2015-10-28T16:30
+2015-10-28T18:30
 FALSE
 Those who think that they can start a new age of Town planning and can make a town where people can live with all the amenities then here is the chance for you.
 
@@ -21,3 +21,5 @@ Decision of judges will be final.
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

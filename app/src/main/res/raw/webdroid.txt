@@ -1,8 +1,8 @@
 36
 Webdroid
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+CL 7 BLOCK A
+2015-10-28T19:30
+2015-10-28T21:30
 FALSE
 CCET challenges you if you are good in Web-designing/App-designing and have a strong craving to gain more. Expand your imagination, enhance your skills. Then beat our challenges. Exciting prizes and certificate will be provided.
 
@@ -18,3 +18,5 @@ Participants can choose between Web Designing and Android App Designing.
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

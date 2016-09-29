@@ -1,8 +1,8 @@
 42
 Aqua Jet
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+College Parking/NCC Ground
+2015-10-28T16:30
+2015-10-28T17:30
 FALSE
 Design single stage water rocket using a plastic container preferably a soft. Bottle that uses a combination of pressurized air and water for propulsion to complete a defined task. A launcher should also be constructed that could launch the water rocket safely.
 
@@ -54,3 +54,5 @@ In case of a discrepancy decision of the judges shall be treated as final an bin
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence and prize money will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

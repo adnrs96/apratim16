@@ -1,8 +1,8 @@
 46
 Bridge It
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+GEO-TECH LAB (GF- BLOCK B)
+2015-10-29T15:30
+2015-10-29T17:30
 FALSE
 Bridges are probably some of the oldest structures built by men. From a simple log across a river to the bridges of today we have made much progress. With improving designs bridges carry immense loads, often in very harsh conditions.
 
@@ -31,3 +31,5 @@ All decisions of the judges shall be final.
 
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

@@ -1,8 +1,8 @@
 61
 NFS Most Wanted
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+Block A entrance and CL-6
+2015-10-28T16:00
+2015-10-29T5:30
 FALSE
 Rules:
 1. Competition Method : 1 vs 1/ 4 players knockout(depending on no. of players)
@@ -22,4 +22,7 @@ Rules:
 15.Performance Matching : off
 16.Car Damage : off
 17.If there is any disconnection during the game, the match will be restarted.
+
 Entry Fee:INR 100 per head
+
+For registration visit: apratim.ccet.ac.in

@@ -48,6 +48,7 @@ public class splash extends AppCompatActivity {
 
         */
 
+
         Thread sync=new Thread(new Runnable() {
             @Override
             public void run() {
@@ -67,16 +68,15 @@ public class splash extends AppCompatActivity {
             public void run() {
                 startActivity(i);
             }
-        }, 4000);
+        }, 7000);
 
     }
 
     @Override
     protected void onStop() {
         super.onStop();
-        ImageView img = (ImageView) findViewById(R.id.imageView);
-        img.setBackgroundResource(0);
         System.gc();
     }
+
 }
 

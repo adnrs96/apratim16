@@ -1,11 +1,12 @@
 1
 Group Dance
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+MAIN STAGE
+2015-10-28T23:00
+2015-10-29T1:00
 FALSE
 Rules:
 Team size: minimum 5 members and maximum 20 member are allowed in a team.
+
 Elimination round:
 1.Teams will have to perform to a suitably edited part of the music from their main performance.
 2.The music which is used in the elimination round has to be a part of the final round.
@@ -14,8 +15,11 @@ Elimination round:
 5.Stunts related to fire and water are not allowed.
 6.Teams should bring their music track in pen drives as well as CDs.
 Time limit: 4-5 minutes
+
 Final round:
 1.Teams present their prepared performances.
 2.Time limit: 8-12 minutes ( music piece duration).
 3.Costumes and props will be included in the judging criteria this round.
 4.The decision of judges shall be final.
+
+For registration visit: apratim.ccet.ac.in

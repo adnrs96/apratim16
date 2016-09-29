@@ -1,8 +1,8 @@
 20
-Quiz
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+QUIZ MANIA
+LH-3/LH-4/EC-13
+2015-10-29T20:00
+2015-10-29T23:30
 FALSE
 Are you done with those dull 10- 15 mark quizzes? Ever wondered why Harry Potter isn't mentioned in your questionnaire? Or perhaps, who the first team to win the cricket World Cup in was?
 
@@ -16,3 +16,5 @@ The quiz will be having 2 rounds.
     
 Certificates and Prizes
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+
+For registration visit: apratim.ccet.ac.in

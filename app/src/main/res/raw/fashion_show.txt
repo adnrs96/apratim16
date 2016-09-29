@@ -1,8 +1,8 @@
 33
 Fashion Show
-CCET
-2015-10-29T11:23
-2015-10-29T12:23
+MAIN STAGE
+2015-10-29T23:00
+2015-10-30T1:00
 FALSE
 Rules:
 
@@ -20,3 +20,5 @@ Final Round:-
 4. Green room will be available behind the stage.
 5. The decision of judges shall be final.
 6. Use of flammable substances like candles, matches or cigarettes or any alcoholic product during performance on stage is not allowed and will result in disqualification.
+
+For registration visit: apratim.ccet.ac.in
