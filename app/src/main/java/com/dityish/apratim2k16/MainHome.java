@@ -45,10 +45,10 @@ public class MainHome extends AppCompatActivity {
 
         if(currentapiVersion>=21)
         {
-            //toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
         }
         else {
-           //toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+           toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
         }
 
         drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -91,10 +91,10 @@ public class MainHome extends AppCompatActivity {
 
                 if(currentapiVersion>=21)
                 {
-                    //toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+                    toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
                 }
                 else {
-                    //toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                    toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
                 }
                 exit=false;
                 Window window = getWindow();
@@ -133,6 +133,7 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
+                        toolbar.setBackgroundColor(getResources().getColor(R.color.prof));
                         fragment = new ProfShow();
                         break;
                     case R.id.nav_fifth_fragment:
@@ -149,7 +150,7 @@ public class MainHome extends AppCompatActivity {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
                         fragment = new Map();
-                        //toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                        toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
                         break;
                     case R.id.nav_eight_fragment:
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
@@ -198,7 +199,7 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
-                        //toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                        toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
                         fragment = new Sponsors();
                         break;
                     default:
