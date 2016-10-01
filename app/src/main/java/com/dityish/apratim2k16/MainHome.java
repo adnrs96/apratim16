@@ -91,13 +91,7 @@ public class MainHome extends AppCompatActivity {
             @Override
             public boolean onNavigationItemSelected(MenuItem menuItem) {
 
-                if(currentapiVersion>=21)
-                {
-                    toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
-                }
-                else {
-                    toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
-                }
+
                 exit=false;
                 Window window = getWindow();
                 switch (menuItem.getItemId()) {
@@ -111,6 +105,13 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
+                        if(currentapiVersion>=21)
+                        {
+                            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+                        }
+                        else {
+                            toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                        }
                         fragment = new AboutUs();
                         break;
                     case R.id.nav_second_fragment:
@@ -122,6 +123,13 @@ public class MainHome extends AppCompatActivity {
                         }
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
+                        }
+                        if(currentapiVersion>=21)
+                        {
+                            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+                        }
+                        else {
+                            toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
                         }
                         fragment = new Schedule();
                         break;
@@ -135,10 +143,24 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
+                        if(currentapiVersion>=21)
+                        {
+                            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+                        }
+                        else {
+                            toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                        }
                         toolbar.setBackgroundColor(getResources().getColor(R.color.prof));
                         fragment = new ProfShow();
                         break;
                     case R.id.nav_fifth_fragment:
+                        if(currentapiVersion>=21)
+                        {
+                            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+                        }
+                        else {
+                            toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                        }
                         fragment = new Home();
                         break;
                     case R.id.nav_seventh_fragment:
@@ -172,6 +194,13 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
+                        if(currentapiVersion>=21)
+                        {
+                            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+                        }
+                        else {
+                            toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                        }
                         fragment = new Gallery();
                         break;
                     case R.id.nav_tenth_fragment:
@@ -184,6 +213,13 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
+                        if(currentapiVersion>=21)
+                        {
+                            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+                        }
+                        else {
+                            toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                        }
                         fragment = new ContactUs();
                         break;
                     case R.id.nav_eleventh_fragment:
@@ -195,6 +231,13 @@ public class MainHome extends AppCompatActivity {
                         }
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
+                        }
+                        if(currentapiVersion>=21)
+                        {
+                            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+                        }
+                        else {
+                            toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
                         }
                         fragment = new Developers();
                         //toolbar.setTitle("Developers");
@@ -209,6 +252,7 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
+
                         toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
                         fragment = new Sponsors();
                         break;
