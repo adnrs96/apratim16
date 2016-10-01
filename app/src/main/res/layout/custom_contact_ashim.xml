@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:padding="2dp"
+            android:background="@drawable/round_button"
+            android:id="@+id/teamImage"
+            android:src="@drawable/developers"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:alpha="0.87"
+            android:text="Developer"
+            android:id="@+id/head"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+
+            android:layout_alignLeft="@+id/name"
+            android:layout_alignStart="@+id/name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:alpha="0.64"
+            android:text="Rishabh Mehrotra \n+91-8290900449\nrisv@abc.com"
+            android:id="@+id/name"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+
+
+            android:layout_toRightOf="@+id/teamImage"
+            android:layout_marginLeft="57dp"
+            android:layout_marginStart="57dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/head" />
+
+    </RelativeLayout>
+</LinearLayout>

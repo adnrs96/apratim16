@@ -52,7 +52,7 @@ public class ContactUs extends Fragment {
             "+919780935213",
             "+919872964202",
             "+917814331944",
-            "+918558056929",
+            "+919465541430",    //+918558056929
             "+918146369596"};
 
     String[] CONTACT_EMAIL={"aakash.ersharma@gmail.com",

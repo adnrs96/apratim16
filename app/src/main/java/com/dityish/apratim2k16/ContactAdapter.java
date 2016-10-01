@@ -36,25 +36,31 @@ public class ContactAdapter extends ArrayAdapter<String> implements SHARED_CONST
         final Holder holder;
         String str=getItem(position);
         final Animation anim= AnimationUtils.loadAnimation(getContext(), R.anim.home_fade);
-        if(convertView==null)
+        mInflater = (LayoutInflater) context
+                .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+        if(number[position].equals("+919465541430"))
         {
-            mInflater = (LayoutInflater) context
-                    .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            convertView=mInflater.inflate(R.layout.custom_contact,parent,false);
-            holder = new Holder();
-            holder.teamImage=(ImageView)convertView.findViewById(R.id.teamImage);
-            holder.head=(TextView) convertView.findViewById(R.id.head);
-            holder.details=(TextView) convertView.findViewById(R.id.name);
-            convertView.setTag(holder);
+            convertView=mInflater.inflate(R.layout.custom_contact_ashim,parent,false);
         }
         else
         {
-            holder=(Holder) convertView.getTag();
+            convertView=mInflater.inflate(R.layout.custom_contact,parent,false);
         }
-
+        holder = new Holder();
+        holder.teamImage=(ImageView)convertView.findViewById(R.id.teamImage);
+        holder.head=(TextView) convertView.findViewById(R.id.head);
+        holder.details=(TextView) convertView.findViewById(R.id.name);
+        convertView.setTag(holder);
         try {
             holder.head.setText(str);
-            holder.details.setText(name[position]+"\n"+number[position]);
+            if(number[position].equals("+919465541430"))
+            {
+                holder.details.setText(name[position]+"\n"+number[position]+"\n+918558056929");
+            }
+            else
+            {
+                holder.details.setText(name[position]+"\n"+number[position]);
+            }
             holder.teamImage.setImageBitmap(pics[position]);
         }
         catch (NullPointerException e)
