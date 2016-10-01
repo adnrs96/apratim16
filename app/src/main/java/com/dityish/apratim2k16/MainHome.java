@@ -3,6 +3,7 @@ package com.dityish.apratim2k16;
 import android.app.FragmentTransaction;
 import android.content.Intent;
 import android.net.Uri;
+import android.graphics.Typeface;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
@@ -17,6 +18,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.TextView;
 import android.widget.Toast;
 
 
@@ -24,6 +26,9 @@ public class MainHome extends AppCompatActivity {
 
     DrawerLayout drawer;
     Toolbar toolbar;
+    TextView mTitle;
+    Typeface tf;
+
     boolean exit=false;
     NavigationView nvDrawer;
     int currentapiVersion;
@@ -36,12 +41,16 @@ public class MainHome extends AppCompatActivity {
         currentapiVersion = android.os.Build.VERSION.SDK_INT;
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
+        mTitle = (TextView) toolbar.findViewById(R.id.toolbar_title);
+        tf = Typeface.createFromAsset(getApplicationContext().getAssets(), "fonts/LemonMilk.ttf");
+        mTitle.setTypeface(tf);
+
         if(currentapiVersion>=21)
         {
-            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+            //toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
         }
         else {
-            toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+           //toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
         }
 
         drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -51,8 +60,9 @@ public class MainHome extends AppCompatActivity {
         android.support.v7.app.ActionBar ab = getSupportActionBar();
 
         fragment = new Home_default();
-
-        android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
+        //toolbar.setTitle("");
+        ab.setTitle("");
+        FragmentManager fragmentManager = getSupportFragmentManager();
         fragmentManager.beginTransaction().replace(R.id.flContent, fragment).commit();
 
         drawer.setDrawerListener(new DrawerLayout.DrawerListener() {
@@ -83,10 +93,10 @@ public class MainHome extends AppCompatActivity {
 
                 if(currentapiVersion>=21)
                 {
-                    toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+                    //toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
                 }
                 else {
-                    toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                    //toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
                 }
                 exit=false;
                 Window window = getWindow();
@@ -140,6 +150,7 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
+
                         Uri gmmIntentUri = Uri.parse("geo:30.7271143,76.8087713?z=15.75");
                         Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
                         mapIntent.setPackage("com.google.android.apps.maps");
@@ -150,7 +161,7 @@ public class MainHome extends AppCompatActivity {
                         {
                             Toast.makeText(MainHome.this, "Google Maps not available", Toast.LENGTH_SHORT).show();
                         }
-                        toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                        //toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
                         break;
                     case R.id.nav_eight_fragment:
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
@@ -187,7 +198,7 @@ public class MainHome extends AppCompatActivity {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
                         fragment = new Developers();
-                        toolbar.setTitle("Developers");
+                        //toolbar.setTitle("Developers");
                         break;
                     case R.id.nav_twelfth_fragment:
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
@@ -199,7 +210,7 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
-                        toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                        //toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
                         fragment = new Sponsors();
                         break;
                     default:
@@ -207,7 +218,8 @@ public class MainHome extends AppCompatActivity {
                 }
                 drawer.closeDrawers();
                 menuItem.setChecked(true);
-                toolbar.setTitle(menuItem.getTitle());
+                mTitle.setText(menuItem.getTitle());
+                //toolbar.setTitle("");
 
                 new Handler().postDelayed(new Runnable() {
 
