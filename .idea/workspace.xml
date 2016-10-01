@@ -13,8 +13,11 @@
     <list default="true" id="888800cd-d0f1-402f-9373-7b5a6bfc8f06" name="Default" comment="Fixed Database so that Events Now works. Made changes to schedule.">
 =======
     <list default="true" id="888800cd-d0f1-402f-9373-7b5a6bfc8f06" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/LemonMilk.ttf" />
 >>>>>>> 3e7cd469c4e6de38da0f4a96ad171bf4f804cc5e
+=======
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
@@ -42,10 +45,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/Map.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/Map.java" />
 =======
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/ContactUs.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/ContactUs.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/MainHome.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/MainHome.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" />
+<<<<<<< HEAD
 >>>>>>> 3e7cd469c4e6de38da0f4a96ad171bf4f804cc5e
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_drawer.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_drawer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/color.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/color.xml" />
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="apratim16.iws" />
@@ -73,6 +80,7 @@
   <component name="FileEditorManager">
     <leaf>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="Map.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/Map.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,30 +89,32 @@
 =======
       <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+=======
+      <file leaf-file-name="menu_drawer.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_drawer.xml">
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="645">
+              <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/theme.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MainHome.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/MainHome.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="210">
               <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
 >>>>>>> 3e7cd469c4e6de38da0f4a96ad171bf4f804cc5e
+=======
+            <state relative-caret-position="1260">
+              <caret line="135" column="90" selection-start-line="135" selection-start-column="90" selection-end-line="135" selection-end-column="90" />
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
               <folding />
             </state>
           </provider>
@@ -1777,11 +1787,14 @@
     <option name="CHANGED_PATHS">
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/src/main/res/raw/group_discussion.txt" />
         <option value="$PROJECT_DIR$/app/src/main/res/raw/face_the_bull.txt" />
 =======
 >>>>>>> 3e7cd469c4e6de38da0f4a96ad171bf4f804cc5e
         <option value="$PROJECT_DIR$/app/src/main/res/raw/bhangra_wars.txt" />
+=======
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
         <option value="$PROJECT_DIR$/app/src/main/res/raw/solo_finals.txt" />
         <option value="$PROJECT_DIR$/app/src/main/res/raw/civil_wars.txt" />
         <option value="$PROJECT_DIR$/app/src/main/res/raw/robo_race.txt" />
@@ -1834,7 +1847,11 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/ContactUs.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_drawer.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml" />
+<<<<<<< HEAD
 >>>>>>> 3e7cd469c4e6de38da0f4a96ad171bf4f804cc5e
+=======
+        <option value="$PROJECT_DIR$/app/src/main/res/values/color.xml" />
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
         <option value="$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/MainHome.java" />
       </list>
     </option>
@@ -1891,6 +1908,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="apratim16" />
@@ -1926,6 +1944,8 @@
           </PATH>
 =======
 >>>>>>> 3e7cd469c4e6de38da0f4a96ad171bf4f804cc5e
+=======
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -1936,12 +1956,17 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="device.picker.selection" value="BMY5IFZ5KBSOTSFQ" />
 =======
     <property name="device.picker.selection" value="2362f0d2" />
 >>>>>>> 3e7cd469c4e6de38da0f4a96ad171bf4f804cc5e
+=======
+    <property name="device.picker.selection" value="0262a9674e5919de" />
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oasis-2015-android-app-master" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -2337,7 +2362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475327060626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes font of toolbar.">
+      <created>1475332322201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1475332322201</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2349,7 +2381,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28709677" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
 =======
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2376,11 +2408,15 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27171314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 =======
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2636778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 >>>>>>> 3e7cd469c4e6de38da0f4a96ad171bf4f804cc5e
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2636778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2413,7 +2449,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed Database so that Events Now works. Made changes to schedule." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Database so that Events Now works. Made changes to schedule." />
+    <MESSAGE value="Changes font of toolbar." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes font of toolbar." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2830,6 +2867,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -2842,6 +2880,8 @@
         <state />
       </provider>
     </entry>
+=======
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/splash.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -2958,6 +2998,7 @@
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_drawer.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -2976,6 +3017,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
 =======
+=======
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_home.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -3004,7 +3047,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
@@ -3016,7 +3059,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/color.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -3025,7 +3068,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
@@ -3038,7 +3081,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
@@ -3051,7 +3094,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/theme.xml">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
@@ -3064,14 +3107,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/theme.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_drawer.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
 =======
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="645">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/color.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
           <folding />
 >>>>>>> 3e7cd469c4e6de38da0f4a96ad171bf4f804cc5e
         </state>
@@ -3095,6 +3165,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dityish/apratim2k16/MainHome.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.22881356">
           <caret line="141" column="25" selection-start-line="141" selection-start-column="25" selection-end-line="141" selection-end-column="25" />
           <folding />
@@ -3109,6 +3180,10 @@
         <state relative-caret-position="210">
           <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
 >>>>>>> 3e7cd469c4e6de38da0f4a96ad171bf4f804cc5e
+=======
+        <state relative-caret-position="1260">
+          <caret line="135" column="90" selection-start-line="135" selection-start-column="90" selection-end-line="135" selection-end-column="90" />
+>>>>>>> 18a428860eaa4114a92c413b062a92333073e10c
           <folding />
         </state>
       </provider>

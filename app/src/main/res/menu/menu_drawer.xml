@@ -2,23 +2,26 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <group android:checkableBehavior="single">
+
         <item
-            android:id="@+id/nav_first_fragment"
-            android:icon="@drawable/about"
-            android:title="About" />
+            android:id="@+id/nav_fifth_fragment"
+            android:icon="@drawable/events_now"
+            android:title="Events Now" />
+
         <item
             android:id="@+id/nav_second_fragment"
             android:icon="@drawable/schedule"
             android:title="Schedule" />
+
         <item
             android:id="@+id/nav_third_fragment"
             android:icon="@drawable/prof_show"
             android:title="Mega Events" />
 
         <item
-            android:id="@+id/nav_fifth_fragment"
-            android:icon="@drawable/events_now"
-            android:title="Events Now" />
+            android:id="@+id/nav_eight_fragment"
+            android:icon="@drawable/pic_day"
+            android:title="Gallery" />
 
         <item
             android:id="@+id/nav_seventh_fragment"
@@ -29,18 +32,21 @@
             android:id="@+id/nav_twelfth_fragment"
             android:icon="@drawable/sponsors"
             android:title="Sponsors" />
-        <item
-            android:id="@+id/nav_eight_fragment"
-            android:icon="@drawable/pic_day"
-            android:title="Gallery" />
+
         <item
             android:id="@+id/nav_tenth_fragment"
             android:icon="@drawable/contact_us"
             android:title="Team" />
+
         <item
             android:id="@+id/nav_eleventh_fragment"
             android:icon="@drawable/developers"
             android:title="Developers" />
+
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:icon="@drawable/about"
+            android:title="About" />
 
     </group>
 

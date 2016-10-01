@@ -18,7 +18,7 @@ public class Map extends android.support.v4.app.Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View view=inflater.inflate(R.layout.fragment_map, container, false);
+        /*View view=inflater.inflate(R.layout.fragment_map, container, false);
         Uri gmmIntentUri = Uri.parse("geo:30.7271143,76.8087713?z=15.75");
         Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
         mapIntent.setPackage("com.google.android.apps.maps");
@@ -35,7 +35,9 @@ public class Map extends android.support.v4.app.Fragment {
         int width = displaymetrics.widthPixels;
         jerryAnimation anim = new jerryAnimation(view,height,width);
         anim.con_anime().start();
-        return view;
+
+        return view; */
+        return null;
     }
     private class mwebViewClient extends WebViewClient {
         @Override
