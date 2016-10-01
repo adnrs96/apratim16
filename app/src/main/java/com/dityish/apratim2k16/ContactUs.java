@@ -22,7 +22,6 @@ import android.widget.Toast;
 
 public class ContactUs extends Fragment {
 
-
     String[] CONTACT_HEAD={"Convener",
             "Co-Convener",
             "Secretary",
@@ -33,6 +32,7 @@ public class ContactUs extends Fragment {
             "Treasurer",
             "Marketing Head",
             "Registration Head"};
+
     String[] CONTACT_NAME={"Aakash",
             "Vasu",
             "Inderdeep",
@@ -65,6 +65,7 @@ public class ContactUs extends Fragment {
             "ashishojha000000@gmail.com",
             "ashimbhasin4@gmail.com",
             "mridulakoul6872@gmail.com"};
+
     int [] Team_PICS={R.drawable.aakash,
             R.drawable.vasu,
             R.drawable.inderdeep,
