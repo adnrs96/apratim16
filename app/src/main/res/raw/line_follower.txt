@@ -1,35 +1,59 @@
 38
 Line Follower
 A.E. Lab (2nd floor)
-2015-10-28T16:30
-2015-10-28T19:30
+2016-10-14T11:00
+2016-10-14T14:00
 FALSE
+
 Robot Specifications:
+
 Robots have to operate autonomously and should not be remote-controlled(Bluetooth or any hand held device).
+
 All systems (like sensors, power supply, data-processing and control-systems) have to completely reside on the robot.
+
 The teams are allowed to use ready- made micro-controller boards/ready-made sensor kits. However they are not allowed to use Lego kits or any similar assemblies.
+
 And violation of any of the above rules shall lead to disqualification.
+
 Machine must be completely self-contained and should receive no outside assistance.
+
 Machine should have an on-board power supply. No external power supply is allowed.
+
 The bot should fit in a cube of dimension 30cm*30cm*30cm
 
+
 Rules and Regulations:
+
 The width of the line is 3cm.
+
 Teams may have a maximum of 4 members.
+
 The robot has to be developed and designed by the team itself. The usage of commercially complete robotic-systems which are sold ready for the purpose of the competition is not allowed.
+
 The time of any run is measured from the time the robot crosses the starting line till the time it crosses the finish line.
+
 A robot is deemed to have crossed the line when the forward most wheel, track, or leg of the robot contacts or crosses over the Line.
 
+
 Timekeeping:
+
 Time shall be measured by a judge with a stopwatch. The recorded time shall be final.
+
 The track consists of a checkpoint and three hand touches are allowed before the checkpoint And equal no of hand touches are allowed between the finish line and the checkpoint.
+
 Each hand touch attracts a time penalty of +4 seconds.
+
 The decision of the organizing team will be final in Claims because of changing lighting conditions in the room or any other reason.
+
 On crossing the checkpoint the team will be awarded -5 seconds from their total travel time
+
 The organizers reserve the right to change any or all of the rules as they deem fit.
+
 Violation of any of the rules will lead to disqualification. Judges' decision shall be treated as final and binding on all.
 
-Certificates and Prizes
+
+Certificates and Prizes:
+
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
 
 For registration visit: apratim.ccet.ac.in

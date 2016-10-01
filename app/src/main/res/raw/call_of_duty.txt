@@ -1,33 +1,55 @@
 59
 Call of Duty
 Block A entrance and CL-6
-2015-10-28T16:00
-2015-10-29T5:30
+2016-10-14T10:30
+2016-10-14T23:59
 FALSE
+
 Rules:
+
 1. Competition method: 5 vs. 5
+
 2. No player can play from two teams. However if the team has lost, the team can re-register and may change the players.
+
 3. Applicants can bring their own mouse, mouse-pads, headgears, keyboard. Applicants are responsible for their own items.
-4. Rounds: 10Rounds (Max rounds format)5rounds as Terrorists and5rounds as Counter-Terrorists per team. The first team that scores 5 rounds wins and the match ends immediately. For Semi-finals and finals: 16 Rounds(Max rounds format) 8 rounds as Terrorists and 8 rounds as Counter-Terrorists per team. The first team that scores 8 rounds wins and the match ends immediately.
-5. Round Time:1minute45seconds
+
+4. Rounds: 10 Rounds (Max rounds format) 5 rounds as Terrorists and 5 rounds as Counter-Terrorists per team. The first team that scores 5 rounds wins and the match ends immediately. For Semi-finals and finals: 16 Rounds(Max rounds format) 8 rounds as Terrorists and 8 rounds as Counter-Terrorists per team. The first team that scores 8 rounds wins and the match ends immediately.
+
+5. Round Time:1 minute 45 seconds
+
 6. Choosing sides: Before starting the match there will be a knife round. Starting sides will be chosen by the team that has won the knife round.
-7. Map pool is following: 6 rounds per map de_dust2,
-de_nuke, de_inferno, de_train, cs_italy Maps can be changed depending on the referee and the selected map will be approved by both teams playing. If no such map is found then map will be selected by the referee.
-8. In case of an tie8. In case of an tie a) 4 extra rounds will be played. (2 rounds as Terrorists / 2 rounds as Counter- Terrorists per team) b)Tie-breaker victory condition:The first team to score3rounds c) In the case of another tie after the 4 extra rounds: Team with the maximum winning rounds is the winning team
+
+7. Map pool is following: 6 rounds per map de_dust2,de_nuke, de_inferno, de_train, cs_italy Maps can be changed depending on the referee and the selected map will be approved by both teams playing. If no such map is found then map will be selected by the referee.
+
+8. In case of an tie a) 4 extra rounds will be played. (2 rounds as Terrorists / 2 rounds as Counter- Terrorists per team) b)Tie-breaker victory condition:The first team to score3rounds c) In the case of another tie after the 4 extra rounds: Team with the maximum winning rounds is the winning team
+
 9. Maps will be randomly drawn for each match
-10.Approved Grenade Amounts Per Round, for each player: Flashbangs: 2
-11.HEGrenades: 1 Smoke Grenades: 1
-12.Default skins must be used.
+
+10. Approved Grenade Amounts Per Round, for each player: Flashbangs: 2
+
+11. Grenades: 1 Smoke Grenades: 1
+
+12. Default skins must be used.
+
 13. Only one sniper per team allowed for each round.
+
 14. In case of odd no. of teams in quarter final or semi final round: One Knife round will be played by each team and winning team will be directly in the next round. Remaining teams will play as usual to compete for the next round
-15.If disconnection occurs during a match a) If all the players cannot play due to an unintended, unforeseen accident such as server stoppage i)Before the 3rd round starts: Restart the match ii)After the 3rd round starts: Round is restarted with mp_startmoney 10000. b) If up to 3 players are unintentionally disconnected, the score for that round is discarded. The gameis paused after the round during the freeze time, and all players wait until the disconnected players areconnected to the server. When all players are reconnected, the match may continue by un-pausing thegame. c) In the case of intentional disconnection, the referee may decide to end the match with the offendingteam losing by forfeit.
-16.Subject to penalty or disqualification based on rules mentioned in World Cyber Gaming Rules
+
+15. If disconnection occurs during a match a) If all the players cannot play due to an unintended, unforeseen accident such as server stoppage i)Before the 3rd round starts: Restart the match ii)After the 3rd round starts: Round is restarted with mp_startmoney 10000. b) If up to 3 players are unintentionally disconnected, the score for that round is discarded. The gameis paused after the round during the freeze time, and all players wait until the disconnected players areconnected to the server. When all players are reconnected, the match may continue by un-pausing the game. c) In the case of intentional disconnection, the referee may decide to end the match with the off ending team losing by forfeit.
+
+16. Subject to penalty or disqualification based on rules mentioned in World Cyber Gaming Rules
+
 17. Other rules as mentioned in World Cyber Gaming rules. How to get yourself kicked out of the tournament: (and possibly banned from future events)
-18.Supply false information about yourself, your team, etc.
-19.Attempt to tamper with the tournament, tournament servers, tournament games, network, power or any other component of the event or tourney.
-20.Use any vulgar language or inappropriate behaviour.
-21.Have anyone play on your team that was not registered for the tourney.
-22.All rules of conduct alsoapply to chatting through the game console.
+
+18. Supply false information about yourself, your team, etc.
+
+19. Attempt to tamper with the tournament, tournament servers, tournament games, network, power or any other component of the event or tourney.
+
+20. Use any vulgar language or inappropriate behaviour.
+
+21. Have anyone play on your team that was not registered for the tourney.
+
+22. All rules of conduct alsoapply to chatting through the game console.
 
 Entry fees: INR 500 per team
 

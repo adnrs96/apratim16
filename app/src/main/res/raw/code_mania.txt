@@ -1,21 +1,30 @@
 34
 Code Mania
 CC BLOCK A
-2015-10-29T16:30
-2015-10-29T18:30
+2016-10-15T11:00
+2016-10-15T13:00
 FALSE
+
 If you are a coder it is the place to show off your skills and compete against each other. Participate in Code Mania and gain recognition and a chance to win exciting prizes.
 
 Details
+
 Team Size: 2 Members at max. Number of Rounds: 2
 
+
 Rules(Preliminary Round – Quiz):
+
 Quiz will consist of technical as well as aptitude questions.
 
+
 Rules(Coding Round):
+
 A problem will be given, and it is to be solved within time limits.
 
-Certificates and Prizes
+
+Certificates and Prizes:
+
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+
 
 For registration visit: apratim.ccet.ac.in

@@ -1,13 +1,19 @@
 68
 5 A Side Football
 FOOTBALL GROUND
-2015-10-29T16:30
-2015-10-30T5:30
+2016-10-15T11:00
+2016-10-15T23:00
 FALSE
+
 *Entry fee-400
+
 *5 playing( 2 sub allowed)
-*Rolling allowed 
+
+*Rolling allowed
+
 *10 min game
-*Penalty goal to goal 
+
+*Penalty goal to goal
+
 
 For registration visit: apratim.ccet.ac.in

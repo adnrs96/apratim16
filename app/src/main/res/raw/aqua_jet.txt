@@ -1,58 +1,94 @@
 42
 Aqua Jet
 College Parking/NCC Ground
-2015-10-28T16:30
-2015-10-28T17:30
+2016-10-14T11:00
+2016-10-14T12:00
 FALSE
+
 Design single stage water rocket using a plastic container preferably a soft. Bottle that uses a combination of pressurized air and water for propulsion to complete a defined task. A launcher should also be constructed that could launch the water rocket safely.
 
 Design Specifications:
+
 The capacity of the plastic container to be used should be less than or equal to 2 litres.
+
 Only water and coke should be used as propellant no other gas is allowed to be pressurized and provide thrust to the rocket.
+
 The maximum pressure should not exceed 60 psi.
+
 Only the above given propellant should be used for launching (mentos can be used). No other potential, kinetic, or any other form of energy will be permitted for the launch.
+
 The launcher must remain stationary on the ground while and after the launching of the rocket.
+
 No component of the body part of the rocket should get detached from main frame during the flight of the rocket. If detached then rocket will be disqualified.
+
 The flange and the mouth of the bottle can be used to hold the rocket while pressurizing.
+
 Upper tip of rocket should be visible marked red.
+
 No electronic device can be used.
+
 The launching mechanism should be such be such that participant is enable to launch the rocket safely from the launcher.
   
 Safety Precautions, Hints, and Tips:
+
 To keep the rocket more aero dynamically stable there is a rule of thumb hat states that centre of drag (cod)should be 1-2 times the distance equal to rocket diameter behi8nd the centre of gravity (COG). Where COD can be found by making a cardboard cut out of the sideways view of the rocket and findings its centre of gravity
+
 To lower cod you can use wings or to rise cog try using weights a nose of rocket.
+
 Be careful while experimenting with water rocket. Use of excessive pressure might lead to accident.
+
 Do not use minerals water bottles as they can withstand the high pressure use soft drink bottle.
+
 Do not use any metallic part in rocket as it can cause harm.
+
 Safety goggles are advised to be worn by the competitors.
 
 The Competition will be carried out in two rounds.
 
 Round 1 (Eliminations):
+
 The task is to cover maximum horizontal distance.
+
 The place where red tip will fall will be considered for scoring
+
 Two trials will be given to the horizontal distances will be considered as score.
+
 Participants are allows to use different free fliers for this round.
+
 The teams who successfully crosses a specified distance will be eligible for finals.
     
 Round 2 (Finals):
+
 The task is to make the rocket land on the defined zones to earn maximum points.
+
 Two trails will be given and best of two will be considered as round 2 score.
+
 Participants are allowed to use different rocket for this round.
+
 Team with highest scoring will be declared as winner.
     
 Scoring total=round 1 score + round 2 score
+
 Team size a maximum no. of 2 members in a team.
+
 Any of following if satisfies may lead to disqualification of a team :
+
 Rocket found dangerous by organizers and judges .
+
 The rocket don’t have a triggering safety launch from a distance of 2m from the launcher.
+
 Rocket blast before launch .
+
 Design rule not abided by the participants .
+
 Rocket launches before permitted by the judges .
+
 The organizers reserve all rights to change any of the above rules as they deem fit.
+
 In case of a discrepancy decision of the judges shall be treated as final an binding on all.
 
-Certificates and Prizes
+Certificates and Prizes:
+
 Certificates of participation will be given to all the participating teams.Certificates of Excellence and prize money will be awarded to the winning teams.
 
 For registration visit: apratim.ccet.ac.in

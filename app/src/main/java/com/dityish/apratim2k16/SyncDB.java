@@ -72,7 +72,7 @@ public class SyncDB implements SHARED_CONSTANTS {
                         end, jsonObject.getString("desc"), isAllDay,check);
                 db.addEvent(event);
                 c++;
-                Log.d("Event name" +c,jsonObject.getString("eventName"));
+                Log.d("Event name" +c,jsonObject.getString("eventName")+dateFormat.format(start));
             }
         } catch (Exception e) {
             Log.d("adnrs96" ,"Reached Exception in events syncDB :"+e.getMessage());

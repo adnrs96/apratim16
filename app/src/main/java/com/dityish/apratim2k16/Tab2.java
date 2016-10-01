@@ -52,7 +52,7 @@ public class Tab2 extends android.support.v4.app.Fragment{
         new AsyncTask<Void, Void, String>() {
             @Override
             protected String doInBackground(Void... params) {
-                eventList= db.getEventsList(1446057000000l,1446143399990l);
+                eventList= db.getEventsList(1476469800000l,1476556199000l);
                 return msg;
             }
 
@@ -112,7 +112,7 @@ public class Tab2 extends android.support.v4.app.Fragment{
         i.putExtra("location",location[position]);
         i.putExtra("time",time[position]);
         i.putExtra("desc",desc[position]);
-        i.putExtra("date","29th Oct  ");
+        i.putExtra("date","15th Oct  ");
         i.putExtra("reminderStart",reminderStart[position].getTime());
         i.putExtra("reminderEnd",reminderEnd[position].getTime());
         startActivity(i);

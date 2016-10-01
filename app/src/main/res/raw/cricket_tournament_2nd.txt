@@ -1,8 +1,8 @@
 72
 Cricket Tournament
 CRICKET GROUND
-2015-10-29T16:30
-2015-10-30T5:30
+2016-10-15T11:00
+2016-10-15T23:59
 FALSE
 
 For registration visit: apratim.ccet.ac.in

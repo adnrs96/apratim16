@@ -1,13 +1,18 @@
 52
 Beach Football
 VOLLEYBALL COURT
-2015-10-28T16:30
-2015-10-29T5:30
+2016-10-14T11:00
+2016-10-14T23:59
 FALSE
+
 Entry: 150
+
 Same rules as in volleyball except no hands to be used
+
 Use of head and legs allowed
+
 3 max touch per team
+
 10 point game
 
 For registration visit: apratim.ccet.ac.in

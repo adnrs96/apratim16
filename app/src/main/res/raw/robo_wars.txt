@@ -1,24 +1,32 @@
 45
 Robo Wars
 PARKING
-2015-10-29T15:30
-2015-10-29T17:30
+2016-10-15T10:00
+2016-10-15T12:00
 FALSE
+
 The obliteration, the thrill, the adventure. Here comes the much awaited, the decisive battleground for our Robotic Gladiators as they fight in this atrocity indulging themselves into ripping off every nut and bolt of the challenger and breaking it to pieces. This Apratim we present our very own Robo Wars in a fresh new avatar. Concrete the way for an era of "reinforcement".
 
 Weapons System:
+
 Robots can have any kind of flippers, saws, lifting devices, spinning hammers etc. as weapons except some of the limitations:
+
 No liquid projectiles. No use of any kind of flammable liquid. No use of explosive material or ignitable solids. No high power magnets or electromagnets. No radio jamming, tesla coils or any other high voltage device. Cutting of opponent power supply will lead to disqualification.
 
+
 Safety Rules:
+
 In no case should the arena be damaged by any robot. Special care should be taken to protect on board batteries. No harm should be given to spectators due to any of the robots in battlefield. All participants build and operate robots at their own risk.
 
 The Competition will be carried out in two rounds.
 
+
 Rules:
+
 A robot is declared victorious if its opponent is immobilized. A robot will be declared immobile if it cannot display linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drivetrain disabled will not be counted out if it can demonstrate some degree of controlled movement. In case both the robots remain mobile after the end of the round then the winner will be decided subjectively. A robot that is deemed unsafe by the judges after the match has begun will be disqualified and therefore declared the loser. The match will be immediately halted and the opponent will be awarded a win. If a robot is thrown out of the arena the match will stop immediately, and the robot still inside the arena will automatically be declared as the winner. Robots cannot win by pinning or lifting their opponents. Organizers will allow pinning or lifting for a maximum of 20 seconds per pin/lift then the attacker robot will be instructed to release the opponent. If, after being instructed to do so, the attacker is able to release but does not, their robot may be disqualified. If two or more robots become entangled or a crushing or gripping weapon is employed and becomes trapped within another robot, then the competitors should make the timekeeper aware, the fight should be stopped and the robots separated by the safest means. Points will be given on the basis of aggression, damage, control and strategy. Machine should not harm the track; any harm to arena will lead to disqualification. Machine having any externally placed power supply, will not have dimensions of power supply included in size constraints. In use of on board power supply, machine along with power supply should follow the dimension criteria. During the match, the machine cannot detach itself into multiple parts.
 
-Certificates and Prizes
+Certificates and Prizes:
+
 Certificates of participation will be given to all the participating teams.Certificates of Excellence and prize money will be awarded to the winning teams.
 
 For registration visit: apratim.ccet.ac.in

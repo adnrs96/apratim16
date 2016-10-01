@@ -106,6 +106,8 @@ public interface SHARED_CONSTANTS {
             "debate_english_finals",
             "dance_on_dj",
             "lan_gaming_finals",
-            "admad"};
+            "admad",
+            "edm_nigh",
+            "star_night"};
 
 }

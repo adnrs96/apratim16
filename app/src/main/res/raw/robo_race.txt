@@ -1,29 +1,47 @@
 44
 Robo Race
 OPEN AREA BELOW CAFETERIA
-2015-10-28T19:30
-2015-10-28T21:30
+2016-10-14T14:00
+2016-10-14T16:00
 FALSE
+
 Design a robo car either wired or wireless which has to complete the track with least possible time.
 
+
 Robot Specifications:
+
 The maximum dimension of he robot can be 30*30cm(l*b)
+
 The robot may be wired or wireless.
+
 The length of the wire (for wired bots) should be long enough to cover the whole track and wire should remain slack during the complete run.
+
 Max weight must not exceed 6kg.
+
 The power supply will be provided maximum up to 224V.
+
 Readymade toys cars are not allowed.
 
+
 Rules:
+
 Robot should be as per the given specifications.
+
 Each team can have maximum 3 members. students from different institutes can form a team.
+
 Each member of the team must contain identity card of his/her respected institute.
+
 The robot should not damage the arena.
+
 The robot must not leave behind any of its parts during the run; else it will result in disqualification.
+
 Unethical behavior could lead to disqualification. Faculty-coordinators have all the rights to take the final decision for any matter during the event.
+
 Judge’s decision will be considered final.
 
-Certificates and Prizes
+
+Certificates and Prizes:
+
 Certificates of participation will be given to all the participating teams.Certificates of Excellence and prize money will be awarded to the winning teams.
 
 For registration visit: apratim.ccet.ac.in

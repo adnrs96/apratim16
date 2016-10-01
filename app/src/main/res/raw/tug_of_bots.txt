@@ -1,40 +1,68 @@
 40
 Tug of Bots
 EDUSAT ROOM
-2015-10-28T20:30
-2015-10-28T22:30
+2016-10-14T15:00
+2016-10-14T17:00
 FALSE
+
 Details:
+
 The event will be held on a concrete road or a floor.
+
 There will be knockout rounds, hence only the strongest and the BEST would win.
+
 The bots must be designed such that they can pull the opponents' bot tied by a rope.
+
 The bots should cross the finish line with rope still attached to it.
+
 The finish line would be approximately 3m away from the start.
+
 Participants can use any number of wheels, motors etc. No prohibition is there in use of components for making the bot as long as it complies with the physical dimensions of the bot.
 
+
 In Action:
+
 Only one participant from each team will be allowed to control the bot.
+
 The rope would be held in a fixed position by a committee member.
+
 A signal would be given after which participants have to start their bots.
+
 No participant can pull the bot with the help of the wire attached to the remote and bot. If found doing so, the team will be immediately disqualified. If the bot is not a remote controlled bot, participants will turn the bot on and leave the arena within 10 seconds.
+
 The time limit for a round is 2 minutes. If none of the bots could cross the finish line jn the given time, the bot farther away will be declared as the winner.
 
+
 Bot Specifications (Physical Dimensions):
+
 The bot should fit in a cube of dimension 30cm*30cm*30cm.
+
 It should not weigh more than 6kg.
+
 Bot must have a hole/place to attach a hook so as to fasten the rope. You can bring a rope attached too.
+
 Bot must have an on board power supply. (Battery or any other kind of power supply must be on the bot only)
+
   
 Rules:
+
 No human interaction will be allowed once the round has started.
+
 No one except one member from the team is allowed in the arena.
+
 Your bot should not cause any damage to the opponents' bot.
+
 The round will be played again if the rope breaks.
+
 You cannot change your bot or perform any modifications (changing of battery , motors etc ) during the course of event.
+
 LEGO kits are not allowed for the event.
+
 Any violation of rules may result in disqualification.
 
-Certificates and Prizes
+
+Certificates and Prizes:
+
 Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
 
 For registration visit: apratim.ccet.ac.in

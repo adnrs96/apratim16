@@ -79,6 +79,7 @@ public class Database extends SQLiteOpenHelper {
         long millis = 0l;
         try {
             millis = date.getTime();
+            Log.d("paras", String.valueOf(millis));
         } catch (NullPointerException e) {
             Log.d("Null pointer", "null data on the DB");
         }
@@ -164,8 +165,8 @@ public class Database extends SQLiteOpenHelper {
                 event.setID(cursor.getString(cursor.getColumnIndex(COLUMN_ID)));
                 event.setName(cursor.getString(cursor.getColumnIndex(COLUMN_NAME)));
                 event.setLocation(cursor.getString(cursor.getColumnIndex(COLUMN_LOCATION)));
-                event.setStart(new Date(cursor.getLong(cursor.getColumnIndex(COLUMN_START))));
-                event.setEnd(new Date(cursor.getLong(cursor.getColumnIndex(COLUMN_END))));
+                event.setStart(new Date(cursor.getLong(cursor.getColumnIndex(COLUMN_START))+19800000l));
+                event.setEnd(new Date(cursor.getLong(cursor.getColumnIndex(COLUMN_END))+19800000l));
                 event.setProfShow(cursor.getInt(cursor.getColumnIndex(COLUMN_ISPROFSHOW)));
                 event.setDesc(cursor.getString(cursor.getColumnIndex(COLUMN_DESC)));
                 eventList.add(event);
@@ -190,7 +191,8 @@ public class Database extends SQLiteOpenHelper {
 
         ArrayList<EventModel> eventsNowList = new ArrayList<EventModel>();
         SQLiteDatabase db = this.getWritableDatabase();
-        long now = System.currentTimeMillis() - 1800000l;
+        long now = System.currentTimeMillis() - 1800000l - 19800000l;
+        //Log.d("paras", String.valueOf(System.currentTimeMillis()- 1800000l)+" "+String.valueOf(now + 16200000l));
         long next4 = now + 16200000l;
 
 //        String query = "SELECT * FROM " + TABLE_EVENTS + " WHERE " + COLUMN_ISALLDAY + " = 0";
@@ -202,7 +204,8 @@ public class Database extends SQLiteOpenHelper {
             do {
                 long eventStart = cursor.getLong(cursor.getColumnIndex(COLUMN_START));
                 long eventEnd = cursor.getLong(cursor.getColumnIndex(COLUMN_END));
-                long diff = eventStart - System.currentTimeMillis();
+                long diff = eventStart - System.currentTimeMillis() + 19800000l;
+                Log.d("paras", String.valueOf(diff));
 
 
                 if ((now <= eventEnd && diff <= 0) ||

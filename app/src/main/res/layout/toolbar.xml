@@ -9,6 +9,7 @@
     android:elevation="10dp"
     android:minHeight="?attr/actionBarSize"
     android:background="@android:color/transparent"
-    app:theme="@style/CustomActionBar">
+    app:theme="@style/CustomActionBar"
+    android:textAlignment="center">
 </android.support.v7.widget.Toolbar>
 
