@@ -2,175 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/paras/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_73f13c7456b851ce0135baa5cf378235c4a4a6ad/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ca8f2009746cb06a6f9bdcc3139a67347747cd06">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fe8607ebb4845426aba0f532e35483fc5831bce6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.1.17/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="7f8c6fd043a9c060badf3fa9b77e51c422af0a8b">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/pl.droidsonroids.gif-android-gif-drawable-1.1.17_d4ef10c22b93978356e35dc3586c22a33f58f38c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5d2a3494f3bd493ac4d3cb35b55ad34535acc426/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_ca54193da2c4231bd8a1ef267fba2dd2c18d2a62/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.4.0_30389752676cd0085702604544549f448fec333e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="7912610ed96381c25c36d986eba422731b9641b6">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.astuetz-pagerslidingtabstrip-1.0.1_8db369c748f8abe086725ab43c077d0e65aca0de/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b1e4ea6748f0c8dba9a84dc17dc70766f26b44f6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_65f8488752add2494e89ce63aab8410ca6d3ce49/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_7098fce475f5d329b5f32ce9e9d87337513e2c0e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/.gradle/caches/modules-2/files-2.1/com.parse/parseinterceptors/0.0.2/8c62746a7c33ffa044d9cd9c390a4c9d209b8925/parseinterceptors-0.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="8c62746a7c33ffa044d9cd9c390a4c9d209b8925">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/parseinterceptors-0.0.2_0760466bcf3d2b92cbe893639075f8c3b5b5d7bd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_bd02c036efdf6f7b171c3802c23d0954ccccf98e/classes.dex" />
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_65eb1cf467575b79aa07d7c94d412f84006f4ae8.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="bcee2598dbb74f6d043225a0d7e178b0c7ea4006">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.2.1_f8946f5227c5eb9f968a827503b5c860da851a82/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.2.1_018f4ac1c77fab217fd62d3449d59c071ad12a17/classes.dex" />
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_15aa1fd06b0b2aa147c6a98550e9fbf1f3a98e12.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/paras/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_3317188e8963cdbc7195c097801a90ef8e21baec/classes.dex" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_90063fbd605b8f7715ffb6e120f28cc4a335ba82.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/paras/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_bf14d2eb8aa1d6a3cc121418bc2b032cda877869/classes.dex" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_2eaec02e3af2183fe7a97a224d20d86dfd5ba303.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_806c79eaf8bd3b837cefa46f8966e5c81a45d911/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="22b7ac73265b68e46cb31ddb5e734de484fca262">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3643274f699c667df0e7a8264ab57a090a825b37/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paras/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.1/5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a/parse-android-1.13.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/adnrs96/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.1/5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a/parse-android-1.13.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.3"
         sha1="5f645bf60e3b88ccc02bd2a4018c5e3ef2f77d0a">
-        <dex dex="/home/paras/AndroidStudioProjects/apratim16/app/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.1_78e96ea4863e3f5652f5e4247c0af57a1e1f7b62/classes.dex" />
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/parse-android-1.13.1_12e7d06b5bc8dd8894088d05f772027f55ac4ed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_870417b618fc6ccfe1182ac939b6e2561430d960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_320ff3888dca63d8cbffd23ac37b672a6b884dee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7f8c6fd043a9c060badf3fa9b77e51c422af0a8b">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/pl.droidsonroids.gif-android-gif-drawable-1.1.17_74560e789079b285fb2f92bd3dc45cd7e806fe0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e0a1f25f57e7e487d9debc5604843078da5c87f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/picasso-2.4.0_8dd523e7ef8b228fbae6867b9952c9c6d2650c36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/.gradle/caches/modules-2/files-2.1/com.parse/parseinterceptors/0.0.2/8c62746a7c33ffa044d9cd9c390a4c9d209b8925/parseinterceptors-0.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c62746a7c33ffa044d9cd9c390a4c9d209b8925">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/parseinterceptors-0.0.2_a15764cdd9e2d9edd313e335551729befd1bda37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_634a311997166fd78c97d233533096b3a1704a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_22756a174e299f99aded315c0f507276a55e3353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bcee2598dbb74f6d043225a0d7e178b0c7ea4006">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.2.1_6f9a4b8a9deb8cee609e32240081b9aedd5cab3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_164ac7c7502882d8b63e6b46744ad4d1ae7f41f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/Charts/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_e302a02ad91f90460361ac27ceca26fa9447af9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adnrs96/apratim16/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/home/adnrs96/apratim16/app/build/intermediates/pre-dexed/debug/com.astuetz-pagerslidingtabstrip-1.0.1_448318be3bc39afb69072295b9596488c60c9aff.jar" />
     </item>
 
 </items>

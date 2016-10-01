@@ -1,6 +1,8 @@
 package com.dityish.apratim2k16;
 
 import android.app.FragmentTransaction;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
@@ -138,7 +140,16 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
-                        fragment = new Map();
+                        Uri gmmIntentUri = Uri.parse("geo:30.7271143,76.8087713?z=15.75");
+                        Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
+                        mapIntent.setPackage("com.google.android.apps.maps");
+                        if (mapIntent.resolveActivity(getApplicationContext().getPackageManager()) != null) {
+                            startActivity(mapIntent);
+                        }
+                        else
+                        {
+                            Toast.makeText(MainHome.this, "Google Maps not available", Toast.LENGTH_SHORT).show();
+                        }
                         toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
                         break;
                     case R.id.nav_eight_fragment:
