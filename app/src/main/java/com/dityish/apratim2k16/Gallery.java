@@ -25,6 +25,7 @@ public class Gallery extends android.support.v4.app.Fragment {
 
         // Inflate the layout for this fragment
         View view=inflater.inflate(R.layout.fragment_gallery, container, false);
+        System.gc();
         DisplayMetrics displaymetrics = new DisplayMetrics();
         getActivity().getWindowManager().getDefaultDisplay().getMetrics(displaymetrics);
         int height = displaymetrics.heightPixels;
@@ -34,19 +35,11 @@ public class Gallery extends android.support.v4.app.Fragment {
         final String[] links = {"https://apratim.herokuapp.com/five.jpg",
                 "https://apratim.herokuapp.com/four.jpg",
                 "https://apratim.herokuapp.com/one.jpg",
-                "https://apratim.herokuapp.com/three.jpg",
-                "https://apratim.herokuapp.com/six.jpg",
-                "https://apratim.herokuapp.com/seven.jpg",
-                "https://apratim.herokuapp.com/eight.jpg",
-                "https://apratim.herokuapp.com/two.jpg"};
+                "https://apratim.herokuapp.com/three.jpg",};
         ImageView pic1=(ImageView) view.findViewById(R.id.pic1);
         ImageView pic2=(ImageView) view.findViewById(R.id.pic2);
         ImageView pic3=(ImageView) view.findViewById(R.id.pic3);
         ImageView pic4=(ImageView) view.findViewById(R.id.pic4);
-        ImageView pic5=(ImageView) view.findViewById(R.id.pic5);
-        ImageView pic6=(ImageView) view.findViewById(R.id.pic6);
-        ImageView pic7=(ImageView) view.findViewById(R.id.pic7);
-        ImageView pic8=(ImageView) view.findViewById(R.id.pic8);
         loading=(ProgressBar) view.findViewById(R.id.loading);
         loading.setMax(100);
 
@@ -68,10 +61,6 @@ public class Gallery extends android.support.v4.app.Fragment {
         Picasso.with(getActivity()).load(links[1]).into(pic2);
         Picasso.with(getActivity()).load(links[2]).into(pic3);
         Picasso.with(getActivity()).load(links[3]).into(pic4);
-        Picasso.with(getActivity()).load(links[4]).into(pic5);
-        Picasso.with(getActivity()).load(links[5]).into(pic6);
-        Picasso.with(getActivity()).load(links[6]).into(pic7);
-        Picasso.with(getActivity()).load(links[7]).into(pic8);
 
         return view;
     }

@@ -79,7 +79,7 @@ public class Database extends SQLiteOpenHelper {
         long millis = 0l;
         try {
             millis = date.getTime();
-            Log.d("paras", String.valueOf(millis));
+            //Log.d("paras", String.valueOf(millis));
         } catch (NullPointerException e) {
             Log.d("Null pointer", "null data on the DB");
         }
@@ -205,7 +205,7 @@ public class Database extends SQLiteOpenHelper {
                 long eventStart = cursor.getLong(cursor.getColumnIndex(COLUMN_START));
                 long eventEnd = cursor.getLong(cursor.getColumnIndex(COLUMN_END));
                 long diff = eventStart - System.currentTimeMillis() + 19800000l;
-                Log.d("paras", String.valueOf(diff));
+                //Log.d("paras", String.valueOf(diff));
 
 
                 if ((now <= eventEnd && diff <= 0) ||

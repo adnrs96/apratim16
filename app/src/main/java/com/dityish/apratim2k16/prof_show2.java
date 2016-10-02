@@ -12,6 +12,12 @@ public class prof_show2 extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.prof_show2);
+        System.gc();
+    }
+    @Override
+    protected void onStop() {
+        super.onStop();
+        System.gc();
     }
 }
 

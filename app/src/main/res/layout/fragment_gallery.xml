@@ -39,34 +39,6 @@
                 android:paddingLeft="16dp"
                 android:src="@drawable/call"
                 android:id="@+id/pic4" />
-            <com.dityish.apratim2k16.TouchImageView
-                android:layout_width="400dp"
-                android:layout_height="fill_parent"
-                android:paddingRight="16dp"
-                android:paddingLeft="16dp"
-                android:src="@drawable/call"
-                android:id="@+id/pic5" />
-            <com.dityish.apratim2k16.TouchImageView
-                android:layout_width="400dp"
-                android:layout_height="fill_parent"
-                android:paddingRight="16dp"
-                android:paddingLeft="16dp"
-                android:src="@drawable/call"
-                android:id="@+id/pic6" />
-            <com.dityish.apratim2k16.TouchImageView
-                android:layout_width="400dp"
-                android:layout_height="fill_parent"
-                android:paddingRight="16dp"
-                android:paddingLeft="16dp"
-                android:src="@drawable/call"
-                android:id="@+id/pic7" />
-            <com.dityish.apratim2k16.TouchImageView
-                android:layout_width="400dp"
-                android:layout_height="fill_parent"
-                android:paddingRight="16dp"
-                android:paddingLeft="16dp"
-                android:src="@drawable/call"
-                android:id="@+id/pic8" />
         </LinearLayout>
     </HorizontalScrollView>
 

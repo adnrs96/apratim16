@@ -56,7 +56,7 @@ public class AboutUs extends Fragment {
             @Override
             public void onClick(View v) {
                 String snapchatId = "";
-                Intent nativeAppIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://snapchat.com/add/" + snapchatId));
+                Intent nativeAppIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://snapchat.com/add/" + "ccetapratim"));
                 startActivity(nativeAppIntent);
             }
         });
