@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/backgroundshow2"
+    tools:context="com.dityish.apratim2k16.prof_show2">
+    <com.dityish.apratim2k16.CustomFont3
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apratim’16"
+        android:id="@+id/apratim16presents"
+        android:layout_row="13"
+        android:layout_column="0"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="27dp"
+
+        android:layout_marginTop="31dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <com.dityish.apratim2k16.CustomFont3
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Presents"
+        android:id="@+id/presents"
+        android:layout_row="14"
+        android:layout_column="0"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="10dp"
+
+
+        android:layout_below="@+id/apratim16presents"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <com.dityish.apratim2k16.CustomFont3
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VH 1\nSUPERSONIC"
+        android:id="@+id/ranjitbawa"
+        android:layout_row="15"
+        android:layout_column="0"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:textSize="18dp"
+
+        android:layout_below="@+id/presents"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="38dp"
+        android:layout_marginTop="305dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="280dp"
+            android:text="Groove with the beat give a treat to your ears cause the most happening college fest of the tricity, APRATIM is here, this time more bigger and better.\n\nDischarge your tensions and charge your mind with a once in a lifetime experience. Shake out your fears and bring out the madness cause the VH1 SUPERSONIC is about to shake the chandigarh.\n\nCome and join us on the biggest EDM night in the tricity\nDon't miss the chance cause You Only Live Once\n\n15th-Oct-16\n7 PM ONWARDS\n\nVENUE\nChandigarh College of Engg. and Tech. Sector 26, Chandigarh"
+            android:id="@+id/detailsforranjitbawa"
+            android:layout_row="16"
+            android:layout_column="0"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:textSize="15dp"
+            android:layout_alignBottom="@+id/scrollView2"
+            android:layout_alignRight="@+id/ranjitbawa"
+            android:layout_alignEnd="@+id/ranjitbawa" />
+    </ScrollView>
+
+
+</RelativeLayout>
