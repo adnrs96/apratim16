@@ -106,4 +106,35 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="title_activity_event_details">EventDetails</string>
+
+    <string name="about">
+        <b>APRATIM</b> is CCET\'s Annual Techno-Cultural Fest.
+        The fest symbolizes the never ending quest for excellence and knowledge in all fields.
+        We\'re back again to blaze the path of creativity, competitive spirit, and fine of aesthetics and appreciation of various arts through a multitude of events that will have all enthralled during the two days of the fest.
+        This time with the aim of getting the inner creativity out of you.
+        Our hope is that you will leave our event thinking differently, and feel inspired to create.\n\n
+        This year our themes are:\n\n
+        <b>RELIVE YOUR CHILDHOOD</b>\n\n
+        Skinned knees. Playing in the local park from noon to dusk.
+        Friendships that began with fights and morphed into partnerships-of-crime.
+        Falling asleep in the safety of mother\'s lap.
+        And heartbreak? Your friend getting the Pokemon collector deck before you did.\n\n
+        If there is any place untainted and unscarred by the sometimes shape edges of adolescence,
+        it\'s childhood: akin to a warm afternoon when the world was exactly as it was supposed
+        to be and all the happiness ever was right within one\'s reach.
+        No matter what decade you are traveling in, the taste of childhood lingers on one\'s
+       tongue like Heaven\'s unforgettable elixir.\n\n
+        To capture again this very essence of childhood that still tugs at out heartstrings,
+        Apratim \'16 is back this year with the theme \'Relive your Childhood\'.
+        Come join us as we walk down those lanes again and splash around in those (very muddy?) memories.\n\n
+        Its time to reunite with our inner child again!\n\n
+       <b>THALASSEMIA</b>\n\n
+        Thalassemia is an inherent blood disorder in which the body makes an abnormal form of haemoglobin.
+        Haemoglobin is the protien molecule in red blood cells that carries oxygen.
+        The disorder results in the destruction of red blood cells, which leads to anemia.
+        Anemia is a condition in which our body doesn\'t have enough normal and healthy red blood cells.\n\n
+        Thalassemia is inherited, meaning that at least one of the parent must be a carrier of the disease. It is due to either a genetic mutation or a deletion of certain key gene fragments.\n\n
+
+        Find Us On
+    </string>
 </resources>

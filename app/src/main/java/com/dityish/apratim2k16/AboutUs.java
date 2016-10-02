@@ -41,14 +41,14 @@ public class AboutUs extends Fragment {
         insta.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri uri = Uri.parse("http://instagram.com/_u/xxx");
+                Uri uri = Uri.parse("http://instagram.com/ccetapratim");
                 Intent insta = new Intent(Intent.ACTION_VIEW, uri);
                 insta.setPackage("com.instagram.android");
 
                 if (isIntentAvailable(getContext(), insta)){
                     startActivity(insta);
                 } else{
-                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://instagram.com/xxx")));
+                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://instagram.com/ccetapratim")));
                 }
             }
         });
