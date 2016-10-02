@@ -51,16 +51,14 @@ public class ProfShow extends android.support.v4.app.Fragment implements SHARED_
         show1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String snapchatId = "";
-                Intent nativeAppIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://snapchat.com/add/" + snapchatId));
+                Intent nativeAppIntent = new Intent(getActivity(),prof_show1.class);
                 startActivity(nativeAppIntent);
             }
         });
         show2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String snapchatId = "";
-                Intent nativeAppIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://snapchat.com/add/" + snapchatId));
+                Intent nativeAppIntent = new Intent(getActivity(),prof_show2.class);
                 startActivity(nativeAppIntent);
             }
         });
