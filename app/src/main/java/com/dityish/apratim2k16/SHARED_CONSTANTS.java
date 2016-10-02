@@ -9,13 +9,10 @@ public interface SHARED_CONSTANTS {
     int [] HOME_BACK_PICS={R.drawable.home5,R.drawable.home2,R.drawable.home1,R.drawable.home3,R.drawable.home4};
     int [] HOME_BACK_COLORS={R.color.home5,R.color.home2,R.color.home1,R.color.home3,R.color.home4};
 
-    int []  PROF_PROFILE_PIC={R.drawable.julia,
-            R.drawable.julia,
-            R.drawable.julia,
-            R.drawable.sunburn_prof,
-            R.drawable.julia};
+    int []  PROF_PROFILE_PIC={R.drawable.supersonic_info,
+            R.drawable.ranjeet_bawa_prof };
 
-    int [] PROF_PICS={R.drawable.julia,R.drawable.julia,R.drawable.julia,R.drawable.sunburn,R.drawable.julia};
+    int [] PROF_PICS={R.drawable.supersonic_info,R.drawable.ranjeet_bawa_info};
 
     String jsonEvents = "{Events:[\n" +
             "  {\n" +

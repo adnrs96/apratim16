@@ -2,7 +2,7 @@
 Mock the Rock
 FUN STAGE
 2016-10-15T14:00
-2016-10-15T15:00s
+2016-10-15T15:00
 FALSE
 
 For registration visit: apratim.ccet.ac.in
