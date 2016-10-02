@@ -4,29 +4,17 @@ package com.dityish.apratim2k16;
  * Created by adnrs96 on 26/8/16.
  */
 
-import android.accounts.Account;
-import android.accounts.AccountManager;
+
 import android.app.Application;
-import android.content.SharedPreferences;
-import android.os.AsyncTask;
-import android.util.Patterns;
-
-import com.parse.Parse;
-import com.parse.ParseACL;
-import com.parse.ParseInstallation;
-import com.parse.ParseObject;
-import com.parse.ParseUser;
-
-import java.util.regex.Pattern;
 
 
 public class apratim2k16 extends Application {
-    SharedPreferences prefs = null;
-    String emailID=" ";
+    //SharedPreferences prefs = null;
+    //String emailID=" ";
     @Override
     public void onCreate() {
         super.onCreate();
-
+/*
         // Enable Local Datastore.
         Parse.enableLocalDatastore(this);
 
@@ -51,9 +39,10 @@ public class apratim2k16 extends Application {
             sendToServer();
             prefs.edit().putBoolean("firstrun", false).apply();
         }
+        */
 
     }
-
+/*
     public void getAccount()
     {
         Pattern emailPattern = Patterns.EMAIL_ADDRESS;
@@ -81,5 +70,5 @@ public class apratim2k16 extends Application {
             }
         }.execute(null,null,null);
     }
-
+*/
 }

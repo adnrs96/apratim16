@@ -5,22 +5,10 @@ import android.util.Log;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import android.app.Activity;
 import android.content.res.Resources;
-import android.os.Bundle;
-import android.util.Log;
-import android.widget.Toast;
-import com.parse.FindCallback;
-import com.parse.ParseException;
-import com.parse.ParseObject;
-import com.parse.ParseQuery;
-import org.json.JSONArray;
-import org.json.JSONException;
 import org.json.JSONObject;
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.List;
 
 
 public class SyncDB implements SHARED_CONSTANTS {
