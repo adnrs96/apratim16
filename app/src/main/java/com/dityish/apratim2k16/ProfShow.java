@@ -25,23 +25,9 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 
-public class ProfShow extends android.support.v4.app.Fragment implements SHARED_CONSTANTS {
+public class ProfShow extends android.support.v4.app.Fragment {
 
     ImageButton show1,show2;
-
-    //-----------------------------------------
-    Bitmap[] drw;
-
-    Database db;
-    String[] name;
-    String[] location;
-    String[] date;
-    String[] desc;
-    String[] time;
-    Date[] reminderStart;
-    Date[] reminderEnd;
-    ListView profList;
-    ArrayList<EventModel> profShows = new ArrayList<EventModel>();
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.activity_prof_show, container, false);
