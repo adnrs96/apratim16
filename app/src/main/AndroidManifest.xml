@@ -19,13 +19,13 @@
     <application
         android:name=".apratim2k16"
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher_splash"
-        android:label="Apratim 2016"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Apratim'16"
         android:largeHeap="true"
         android:theme="@style/CustomActionBarTheme">
         <activity
             android:name=".splash"
-            android:label="Apratim 2016"
+            android:label="Apratim'16"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme">

@@ -21,7 +21,6 @@
             <com.dityish.apratim2k16.TouchImageView
                 android:layout_width="400dp"
                 android:layout_height="fill_parent"
-                android:src="@drawable/call"
                 android:paddingRight="16dp"
                 android:paddingLeft="16dp"
                 android:id="@+id/pic2"/>
@@ -30,14 +29,12 @@
                 android:layout_height="fill_parent"
                 android:paddingRight="16dp"
                 android:paddingLeft="16dp"
-                android:src="@drawable/call"
                 android:id="@+id/pic3"/>
             <com.dityish.apratim2k16.TouchImageView
                 android:layout_width="400dp"
                 android:layout_height="fill_parent"
                 android:paddingRight="16dp"
                 android:paddingLeft="16dp"
-                android:src="@drawable/call"
                 android:id="@+id/pic4" />
         </LinearLayout>
     </HorizontalScrollView>
