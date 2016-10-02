@@ -85,7 +85,7 @@ public class splash extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         if (prefs.getBoolean("firstrun", true)) {
-            Thread sync=new Thread(new Runnable() {
+            final Thread sync=new Thread(new Runnable() {
                 @Override
                 public void run() {
                     SyncDB.refreshEvent(getApplicationContext());
@@ -102,9 +102,10 @@ public class splash extends AppCompatActivity {
 
                 @Override
                 public void run() {
+                    while(sync.getState()!=Thread.State.TERMINATED){ }
                     startActivity(i);
                 }
-            }, 10000);
+            }, 7000);
             prefs.edit().putBoolean("firstrun", false).commit();
         }
         else{
