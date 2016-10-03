@@ -145,12 +145,11 @@ public class MainHome extends AppCompatActivity {
                         }
                         if(currentapiVersion>=21)
                         {
-                            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
+                            toolbar.setBackgroundColor(getResources().getColor(R.color.prof));
                         }
                         else {
-                            toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));
+                            toolbar.setBackgroundColor(getResources().getColor(R.color.prof2));
                         }
-                        toolbar.setBackgroundColor(getResources().getColor(R.color.prof));
                         fragment = new ProfShow();
                         break;
                     case R.id.nav_fifth_fragment:
