@@ -173,7 +173,7 @@ public class MainHome extends AppCompatActivity {
                         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                             window.setStatusBarColor(ContextCompat.getColor(getApplicationContext(), R.color.home4));
                         }
-                        Uri gmmIntentUri = Uri.parse("geo:30.7271143,76.8087713?z=15.75");
+                        Uri gmmIntentUri = Uri.parse("geo:0,0?q=30.7271143,76.8087713(CCET+Chandigarh)");
                         Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
                         mapIntent.setPackage("com.google.android.apps.maps");
                         if (mapIntent.resolveActivity(getApplicationContext().getPackageManager()) != null) {
