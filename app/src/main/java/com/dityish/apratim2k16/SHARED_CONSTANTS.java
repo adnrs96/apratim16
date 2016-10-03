@@ -4,8 +4,8 @@ package com.dityish.apratim2k16;
 public interface SHARED_CONSTANTS {
 
 
-    int [] HOME_BACK_PICS={R.drawable.home5,R.drawable.home2,R.drawable.home1,R.drawable.home3,R.drawable.home4};
-    int [] HOME_BACK_COLORS={R.color.home5,R.color.home2,R.color.home1,R.color.home3,R.color.home4};
+    int [] HOME_BACK_PICS={R.drawable.home5,R.drawable.home2,R.drawable.home4,R.drawable.home3,R.drawable.home1};
+    int [] HOME_BACK_COLORS={R.color.home5,R.color.home2,R.color.home4,R.color.home3,R.color.home1};
 
 
     String [] eventsNames = { "antakshri",
