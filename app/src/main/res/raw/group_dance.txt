@@ -7,35 +7,36 @@ FALSE
 
 Rules:
 
-Team size: minimum 5 members and maximum 20 member are allowed in a team.
-
+Team size: minimum 5 and maximum 30 members limit in a team. However, at any instant, presence of 5 members on the stage is mandatory
 
 Elimination round:
 
-1. Teams will have to perform to a suitably edited part of the music from their main performance.
+A. Teams will have to perform to a suitably edited part of the music from their main performance.
 
-2. The music which is used in the elimination round has to be a part of the final round.
+B. The music which is used in the elimination round has to be a part of the final round.
 
-3. No marks for costumes and props in prelims.
+C. No marks for costumes and props in prelims.
 
-4. Vulgarity of any kind will lead to immediate disqualification.
+D. Vulgarity of any kind will lead to immediate disqualification.
 
-5. Stunts related to fire and water are not allowed.
+E. Stunts related to fire and water are not allowed.
 
-6. Teams should bring their music track in pen drives as well as CDs.
+F. Teams should bring their music track in pen drives as well as CDs.
 
-Time limit: 4-5 minutes
+G. The decision of the judges will be final.
+
+H. Time limit: 4-6 minutes
 
 
 Final round:
 
-1. Teams present their prepared performances.
+A. Teams present their performances which must include the part presented in the elimination round.
 
-2. Time limit: 8-12 minutes ( music piece duration).
+B. Time limit: 6-10 minutes (music piece duration).
 
-3. Costumes and props will be included in the judging criteria this round.
+C. Costumes and props will be included in the judging criteria this round.
 
-4. The decision of judges shall be final.
+D. The decision of judges will be final.
 
 
 For registration visit: http://apratim.ccet.ac.in/login.php
