@@ -39,11 +39,11 @@
     <color name="navy">#000080</color>
     <color name="black">#000000</color>
 
-    <color name="home1">#0e3b3b</color>
-    <color name="home2">#000000</color>
-    <color name="home3">#000000</color>
-    <color name="home4">#0A4478</color>
-    <color name="home5">#122F2A</color>
+    <color name="home1">#165D5D</color>
+    <color name="home2">#2E2C2C</color>
+    <color name="home3">#2E2C2C</color>
+    <color name="home4">#00172A</color>
+    <color name="home5">#00100E</color>
     <color name="prof">#4D000000</color>
     <color name="prof2">#951c1c</color>
     <color name="trans_black">#8A000000</color>
