@@ -45,5 +45,6 @@
     <color name="home4">#051015</color>
     <color name="home5">#190A1F</color>
     <color name="prof">#4D000000</color>
+    <color name="trans_black">#8A000000</color>
 
 </resources>

@@ -6,6 +6,7 @@ import android.provider.CalendarContract;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.text.method.LinkMovementMethod;
 import android.view.View;
 import android.widget.TextView;
 
@@ -26,6 +27,8 @@ public class EventDetails extends AppCompatActivity {
         TextView eventDetails=(TextView)findViewById(R.id.eventDetails);
         TextView eventTime=(TextView)findViewById(R.id.eventTime);
 
+        eventDetails.setMovementMethod(LinkMovementMethod.getInstance());
+
         Bundle details=getIntent().getExtras();
          name=details.getString("name");
          location=details.getString("location");
@@ -44,8 +47,8 @@ public class EventDetails extends AppCompatActivity {
 
         collapsingToolbarLayout = (CollapsingToolbarLayout) findViewById(R.id.toolbar_layout);
 
-        collapsingToolbarLayout.setContentScrimColor(R.color.dark_theme);
-        collapsingToolbarLayout.setStatusBarScrimColor(R.color.dark_theme);
+        collapsingToolbarLayout.setContentScrimColor(getResources().getColor(R.color.dark_theme));
+        collapsingToolbarLayout.setStatusBarScrimColor(getResources().getColor(R.color.dark_theme));
         collapsingToolbarLayout.setExpandedTitleColor(getResources().getColor(R.color.white));
         collapsingToolbarLayout.setCollapsedTitleTextColor(getResources().getColor(R.color.white));
         collapsingToolbarLayout.setTitle(name);

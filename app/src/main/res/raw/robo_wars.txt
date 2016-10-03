@@ -27,6 +27,6 @@ A robot is declared victorious if its opponent is immobilized. A robot will be d
 
 Certificates and Prizes:
 
-Certificates of participation will be given to all the participating teams.Certificates of Excellence and prize money will be awarded to the winning teams.
+Certificates of participation will be given to all the participating teams. Certificates of Excellence and prize money will be awarded to the winning teams.
 
-For registration visit: apratim.ccet.ac.in
+For registration visit: http://apratim.ccet.ac.in/login.php

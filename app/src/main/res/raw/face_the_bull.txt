@@ -5,5 +5,5 @@ Fun Stage
 2016-10-14T23:59
 FALSE
 
-For registration visit: apratim.ccet.ac.in
+For registration visit: http://apratim.ccet.ac.in/login.php
 

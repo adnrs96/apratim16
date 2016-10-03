@@ -19,6 +19,7 @@ import android.widget.AdapterView;
 import android.widget.ImageButton;
 import android.widget.ListAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -31,6 +32,7 @@ public class ProfShow extends android.support.v4.app.Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.activity_prof_show, container, false);
+        Toast.makeText(getActivity(),"Click on an event for more details", Toast.LENGTH_LONG).show();
         show1 = (ImageButton)view.findViewById(R.id.imageButtonfortimewaste1);
         show2 = (ImageButton)view.findViewById(R.id.imageButtonfortimewaste2);
 

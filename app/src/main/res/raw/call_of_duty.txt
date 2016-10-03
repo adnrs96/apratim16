@@ -53,4 +53,4 @@ Rules:
 
 Entry fees: INR 500 per team
 
-For registration visit: apratim.ccet.ac.in
+For registration visit: http://apratim.ccet.ac.in/login.php

@@ -27,16 +27,16 @@ Rules:
 
 10. Offsides : on
 
-11.Bookings : on
+11. Bookings : on
 
 12. Stadium : Random
 
-13.Weather : Random
+13. Weather : Random
 
-14.Substitutions Allowed : 3
+14. Substitutions Allowed : 3
 
-15.If there is any disconnection during the game, the match will be restarted.
+15. If there is any disconnection during the game, the match will be restarted.
 
 Entry Fee:INR 100 per head
 
-For registration visit: apratim.ccet.ac.in
+For registration visit: http://apratim.ccet.ac.in/login.php

@@ -7,25 +7,25 @@ FALSE
 
 Rules:
 
-1.Script should be original/self-written and not be copied, if found guilty, would result in disqualification of team.
+1. Script should be original/self-written and not be copied, if found guilty, would result in disqualification of team.
 
-2.Team limit is 20 members including member in charge of music.
+2. Team limit is 20 members including member in charge of music.
 
-3.Substitutions are not allowed.
+3. Substitutions are not allowed.
 
-4.No restriction on use of musical instruments. Marks will be on creative use of musical intruments and not on their number.
+4. No restriction on use of musical instruments. Marks will be on creative use of musical intruments and not on their number.
 
-5.No props other than saropas and sticks are allowed. Other props can be used with the permission of coordinator. Marks will be on creative use of props and not on their number.
+5. No props other than saropas and sticks are allowed. Other props can be used with the permission of coordinator. Marks will be on creative use of props and not on their number.
 
-6.Vulgarity, blasphemy, offensive content against any particular sect/ public figure is strictly not permissible; points may be deducted for the same.
+6. Vulgarity, blasphemy, offensive content against any particular sect/ public figure is strictly not permissible; points may be deducted for the same.
 
-7.Language used can be Hindi or English.
+7. Language used can be Hindi or English.
 
-8.Any electronic device or recorded music is not allowed.
+8. Any electronic device or recorded music is not allowed.
 
-9.Negative points for exceeding time limit.
+9. Negative points for exceeding time limit.
 
-10.Decision of judges will be final.
+10. Decision of judges will be final.
 
 
 The competition will consists of two rounds:
@@ -42,4 +42,4 @@ Final round:
 Time limit: 18-22 min.
 
 
-For registration visit: apratim.ccet.ac.in
+For registration visit: http://apratim.ccet.ac.in/login.php

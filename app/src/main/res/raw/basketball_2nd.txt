@@ -7,15 +7,15 @@ FALSE
 
 Rules & Entry fee:
 
-1.Half court matches
+1. Half court matches
 
-2.Entry fee=200
+2. Entry fee=200
 
-3.3 playing (2 sub).
+3. 3 playing (2 sub).
 
-4.Rolling allowed.
+4. Rolling allowed.
 
-5.15 minute game
+5. 15 minute game
 
 
-For registration visit: apratim.ccet.ac.in
+For registration visit: http://apratim.ccet.ac.in/login.php

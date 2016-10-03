@@ -9,7 +9,7 @@ If you happen to know how to make bits and pieces of paper turn into something m
 
 Registration:
 
-Registration fee is INR 50 (75.56 trests).Registration fee is refundable.Payment is to be done using Trestor app.Using the app, create your trestor account.Send the required amount of Trests as mentioned in the registration fee of the event to the following TRESTOR ID: apratimregistration
+Registration fee is INR 50 (75.56 trests).Registration fee is refundable. Payment is to be done using Trestor app. Using the app, create your trestor account. Send the required amount of Trests as mentioned in the registration fee of the event to the following TRESTOR ID: apratimregistration
 
 Rules:
 
@@ -25,6 +25,6 @@ Registrations can be done online as well as on the spot.
 
 Certificates and Prizes:
 
-Certificates of participation will be given to all the participating teams.Certificates of Excellence and prize money will be awarded to the winning teams.
+Certificates of participation will be given to all the participating teams. Certificates of Excellence and prize money will be awarded to the winning teams.
 
-For registration visit: apratim.ccet.ac.in
+For registration visit: http://apratim.ccet.ac.in/login.php

@@ -24,7 +24,7 @@ A problem will be given, and it is to be solved within time limits.
 
 Certificates and Prizes:
 
-Certificates of participation will be given to all the participating teams.Certificates of Excellence will be awarded to the winning teams.
+Certificates of participation will be given to all the participating teams. Certificates of Excellence will be awarded to the winning teams.
 
 
-For registration visit: apratim.ccet.ac.in
+For registration visit: http://apratim.ccet.ac.in/login.php
