@@ -41,14 +41,11 @@ public class AboutUs extends Fragment {
         insta.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri uri = Uri.parse("http://instagram.com/ccetapratim");
-                Intent insta = new Intent(Intent.ACTION_VIEW, uri);
-                insta.setPackage("com.instagram.android");
 
-                if (isIntentAvailable(getContext(), insta)){
-                    startActivity(insta);
-                } else{
-                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://instagram.com/ccetapratim")));
+                try {
+                    startActivity(newInstagramProfileIntent(getContext().getPackageManager(), "http://instagram.com/ccetapratim"));
+                } catch (Exception e) {
+                    Log.d("about", "onClick: Instagram has issue");
                 }
             }
         });
@@ -87,5 +84,24 @@ public class AboutUs extends Fragment {
         } catch (PackageManager.NameNotFoundException ignored) {
         }
         return new Intent(Intent.ACTION_VIEW, uri);
+    }
+
+    public static Intent newInstagramProfileIntent(PackageManager pm, String url) {
+        final Intent intent = new Intent(Intent.ACTION_VIEW);
+        try {
+            if (pm.getPackageInfo("com.instagram.android", 0) != null) {
+                if (url.endsWith("/")) {
+                    url = url.substring(0, url.length() - 1);
+                }
+                final String username = url.substring(url.lastIndexOf("/") + 1);
+                // http://stackoverflow.com/questions/21505941/intent-to-open-instagram-user-profile-on-android
+                intent.setData(Uri.parse("http://instagram.com/_u/" + username));
+                intent.setPackage("com.instagram.android");
+                return intent;
+            }
+        } catch (PackageManager.NameNotFoundException ignored) {
+        }
+        intent.setData(Uri.parse(url));
+        return intent;
     }
 }
