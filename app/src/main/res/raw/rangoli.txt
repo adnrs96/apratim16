@@ -5,4 +5,15 @@ BLOCK B ENTRANCE
 2016-10-15T12:00
 FALSE
 
+Rules:
+
+1. Maximum number of members is 3
+
+2. Time limit is 1 hour
+
+3. Colors will be provided
+
+4. Registrations can be done online as well as on the spot
+
+
 For registration visit: http://apratim.ccet.ac.in/login.php

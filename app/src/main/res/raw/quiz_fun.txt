@@ -1,8 +1,8 @@
 17
 General Quiz
 LH-7
-2016-10-15T14:00
-2016-10-15T16:00
+2015-10-29T14:00
+2015-10-29T16:00
 FALSE
 
 For registration visit: http://apratim.ccet.ac.in/login.php

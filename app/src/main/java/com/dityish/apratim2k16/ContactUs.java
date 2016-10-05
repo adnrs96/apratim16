@@ -24,56 +24,56 @@ public class ContactUs extends Fragment {
 
     String[] CONTACT_HEAD={"Convener",
             "Co-Convener",
+            "Treasurer",
             "Secretary",
             "Joint Secretary",
             "Joint Secretary" ,
             "Joint Secretary" ,
             "Joint Secretary",
-            "Treasurer",
             "Marketing Head",
             "Registration Head"};
 
     String[] CONTACT_NAME={"Aakash",
             "Vasu",
+            "Ashish",
             "Inderdeep",
             "Deepanshu",
             "Shubham Goyal",
             "Sahil Puri",
             "Harinder",
-            "Ashish",
             "Ashim",
             "Mridula"};
 
     String[] CONTACT_NUMBER= {"+919888370004",
             "+919646861515",
+            "+917814331944",
             "+918146618475",
             "+919530587815",
             "+919501177779",
             "+919780935213",
             "+919872964202",
-            "+917814331944",
             "+919465541430",    //+918558056929
             "+918146369596"};
 
     String[] CONTACT_EMAIL={"aakash.ersharma@gmail.com",
             "vasugupta1515@gmail.com",
+            "ashishojha000000@gmail.com",
             "deepinder010196@gmail.com",
             "deepanshu.malhotra55@gmail.com",
             "shubham.ccet@gmail.com",
             "sahilpuri30995@gmail.com",
             "harindersaini3@gmail.com",
-            "ashishojha000000@gmail.com",
             "ashimbhasin4@gmail.com",
             "mridulakoul6872@gmail.com"};
 
     int [] Team_PICS={R.drawable.aakash,
             R.drawable.vasu,
+            R.drawable.ashish,
             R.drawable.inderdeep,
             R.drawable.deepanshu,
             R.drawable.shubham_goyal,
             R.drawable.sahil,
             R.drawable.harinder,
-            R.drawable.ashish,
             R.drawable.ashim,
             R.drawable.mridula};
 

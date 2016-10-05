@@ -124,7 +124,7 @@ public class Database extends SQLiteOpenHelper {
 
     public void addEvent(EventModel event) {
         if (checkIfExists(TABLE_EVENTS, event.getID())) {
-            //updateEvent(event.getID(), event.getName(), event.getLocation(), event.getStart(), event.getEnd(), event.getDesc(), event.isAllDay(), event.isProfShow());
+            updateEvent(event.getID(), event.getName(), event.getLocation(), event.getStart(), event.getEnd(), event.getDesc(), event.isAllDay(), event.isProfShow());
         } else {
             addEvent(event.getID(), event.getName(), event.getLocation(), event.getStart(), event.getEnd(), event.getDesc(), event.isAllDay(), event.isProfShow());
         }

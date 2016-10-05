@@ -84,7 +84,7 @@ public class splash extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        if (prefs.getBoolean("firstrun", true)) {
+        if (prefs.getBoolean("FirstRun", true)) {
             final Thread sync=new Thread(new Runnable() {
                 @Override
                 public void run() {
@@ -106,7 +106,7 @@ public class splash extends AppCompatActivity {
                     startActivity(i);
                 }
             }, 7000);
-            prefs.edit().putBoolean("firstrun", false).commit();
+            prefs.edit().putBoolean("FirstRun", false).commit();
         }
         else{
             final Intent i = new Intent(this, MainHome.class);
@@ -119,7 +119,7 @@ public class splash extends AppCompatActivity {
                     startActivity(i);
                 }
             }, 7000);
-            prefs.edit().putBoolean("firstrun", false).commit();
+            prefs.edit().putBoolean("FirstRun", false).commit();
         }
     }
 
