@@ -62,7 +62,6 @@ public class MainHome extends AppCompatActivity {
         fragment = new Home_default();
         //toolbar.setTitle("");
         ab.setTitle("");
-        toolbar.setBackgroundColor(getResources().getColor(R.color.prof));
         FragmentManager fragmentManager = getSupportFragmentManager();
         fragmentManager.beginTransaction().replace(R.id.flContent, fragment).commit();
 
@@ -156,7 +155,7 @@ public class MainHome extends AppCompatActivity {
                     case R.id.nav_fifth_fragment:
                         if(currentapiVersion>=21)
                         {
-                            toolbar.setBackgroundColor(getResources().getColor(R.color.prof));
+                            toolbar.setBackgroundColor(getResources().getColor(android.R.color.transparent));
                         }
                         else {
                             toolbar.setBackgroundColor(getResources().getColor(R.color.dark_theme));

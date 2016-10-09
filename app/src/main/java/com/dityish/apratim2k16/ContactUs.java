@@ -26,55 +26,70 @@ public class ContactUs extends Fragment {
             "Co-Convener",
             "Treasurer",
             "Secretary",
-            "Joint Secretary",
-            "Joint Secretary" ,
-            "Joint Secretary" ,
-            "Joint Secretary",
             "Marketing Head",
+            "Publicity Head",
+            "Media Head",
+            "Accomodation Head",
+            "Joint Secretary",
+            "Joint Secretary" ,
+            "Joint Secretary" ,
+            "Joint Secretary",
             "Registration Head"};
 
     String[] CONTACT_NAME={"Aakash",
             "Vasu",
             "Ashish",
             "Inderdeep",
+            "Ashim",
+            "Pranshul Soni",
+            "Aditya Jindal",
+            "Gobind Bhal",
             "Deepanshu",
             "Shubham Goyal",
             "Sahil Puri",
             "Harinder",
-            "Ashim",
             "Mridula"};
 
     String[] CONTACT_NUMBER= {"+919888370004",
             "+919646861515",
             "+917814331944",
             "+918146618475",
+            "+919465541430",    //+918558056929
+            "+917696198301",
+            "+919996838397",
+            "+917696944515",
             "+919530587815",
             "+919501177779",
             "+919780935213",
             "+919872964202",
-            "+919465541430",    //+918558056929
             "+918146369596"};
 
     String[] CONTACT_EMAIL={"aakash.ersharma@gmail.com",
             "vasugupta1515@gmail.com",
             "ashishojha000000@gmail.com",
             "deepinder010196@gmail.com",
+            "ashimbhasin4@gmail.com",
+            "pranshul2480@gmail.com",
+            "adityaj1324@gmail.com",
+            "gobindbhal11@gmail.com",
             "deepanshu.malhotra55@gmail.com",
             "shubham.ccet@gmail.com",
             "sahilpuri30995@gmail.com",
             "harindersaini3@gmail.com",
-            "ashimbhasin4@gmail.com",
             "mridulakoul6872@gmail.com"};
 
     int [] Team_PICS={R.drawable.aakash,
             R.drawable.vasu,
             R.drawable.ashish,
             R.drawable.inderdeep,
+            R.drawable.ashim,
+            R.drawable.pranshul,
+            R.drawable.aditya_jindal,
+            R.drawable.gobind,
             R.drawable.deepanshu,
             R.drawable.shubham_goyal,
             R.drawable.sahil,
             R.drawable.harinder,
-            R.drawable.ashim,
             R.drawable.mridula};
 
 
@@ -85,7 +100,7 @@ public class ContactUs extends Fragment {
         View view=inflater.inflate(R.layout.activity_contact_us, container, false);
 
         ListView contactList=(ListView) view.findViewById(R.id.contactList);
-        Bitmap[] pixy=new Bitmap[10];
+        Bitmap[] pixy=new Bitmap[Team_PICS.length];
         for(int i=0;i<Team_PICS.length;i++)
         {
             Bitmap pics= BitmapFactory.decodeResource(getResources(), Team_PICS[i]);

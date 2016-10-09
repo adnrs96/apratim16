@@ -88,6 +88,9 @@ public interface SHARED_CONSTANTS {
             "lan_gaming_finals",
             "admad",
             "edm_nigh",
-            "star_night"};
+            "star_night",
+            "vollyball",
+            "vollyball_2nd",
+            "campus_princess"};
 
 }

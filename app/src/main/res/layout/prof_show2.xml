@@ -67,7 +67,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="280dp"
-            android:text="Groove with the beat give a treat to your ears cause the most happening college fest of the tricity, APRATIM is here, this time more bigger and better.\n\nDischarge your tensions and charge your mind with a once in a lifetime experience. Shake out your fears and bring out the madness cause the VH1 SUPERSONIC is about to shake the chandigarh.\n\nCome and join us on the biggest EDM night in the tricity\nDon't miss the chance cause You Only Live Once\n\n15th-Oct-16\n7 PM ONWARDS\n\nVENUE\nChandigarh College of Engg. and Tech. Sector 26, Chandigarh"
+            android:text="Groove with the beat give a treat to your ears cause the most happening college fest of the tricity, APRATIM is here, this time more bigger and better.\n\nDischarge your tensions and charge your mind with a once in a lifetime experience. Shake out your fears and bring out the madness cause the VH1 SUPERSONIC is about to shake the chandigarh.\n\nCome and join us on the biggest EDM night in the tricity\nDon't miss the chance cause You Only Live Once\n\n15th-Oct-16\n7 PM ONWARDS\n\nVENUE\nChandigarh College of Engg. and Tech. Sector 26, Chandigarh\n\nContact:\nAkashdeep Singh: 7837229187"
             android:id="@+id/detailsforranjitbawa"
             android:layout_row="16"
             android:layout_column="0"

@@ -62,7 +62,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="280dp"
-            android:text="Find your escape from the boredom and jump right into the musical fantasy\n\nGet ready to groove and move on desi hit punjabi songs performed by the one and only ranjit bawa only in APRATIM the most happening college fest of the tricity.\n\nDon&apos;t miss the chance. Its now or never\n\n14th-oct-16\n7 PM ONWARDS\n\nVENUE\nChandigarh College of Engg. and Tech. Sector 26, Chandigarh"
+            android:text="Find your escape from the boredom and jump right into the musical fantasy\n\nGet ready to groove and move on desi hit punjabi songs performed by the one and only ranjit bawa only in APRATIM the most happening college fest of the tricity.\n\nDon&apos;t miss the chance. Its now or never\n\n14th-oct-16\n7 PM ONWARDS\n\nVENUE\nChandigarh College of Engg. and Tech. Sector 26, Chandigarh\n\nContact:\nAkashdeep Singh: 7837229187"
             android:id="@+id/detailsforranjitbawa"
             android:layout_row="16"
             android:layout_column="0"
