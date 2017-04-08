@@ -1,16 +1,3 @@
 # Apratim-2K16
 
-# To Do 
-
-## Schedule 
-## Font settings, color scheme, background setting and design stuff
-## Register
-## Gallery
-## Animations , front animation
-## ~~Sponsors~~
-## Developers
-## Contact Update
-------------------------------------------------------------------------------------
-## Some issues with SDK version 16
-## Look for memory leaks
-## rest you may try to use and look for
+This the official app of Apratim 16,annual techno cultural fest of CCET, Chandigarh
